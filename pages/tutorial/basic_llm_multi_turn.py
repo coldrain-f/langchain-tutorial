@@ -89,6 +89,13 @@ data = {
 }
 df = pd.DataFrame(data)
 
+if reset_button:
+    st.session_state["page_states"]["basic_llm_multi_turn"] = {
+        "messages": [],
+        "store": {},
+        "chain_with_history": None,
+    }
+
 st.title("AI Assistant")
 st.dataframe(df, use_container_width=True)
 st.divider()
@@ -101,6 +108,7 @@ session_state = get_session_state()
 chain_with_history = session_state["chain_with_history"]
 if chain_with_history is None:
     chain_with_history = create_chain_with_history()
+    session_state["chain_with_history"] = chain_with_history
 
 user_message = st.chat_input()
 
