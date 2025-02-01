@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas as pd
 
 from langchain_core.messages.chat import ChatMessage
 from langchain_openai import ChatOpenAI
@@ -32,21 +33,29 @@ def display_messages() -> None:
         st.chat_message(chat_message.role).write(chat_message.content)
 
 
-def generate_chat_completion(message: str, model: str):
-    model = ChatOpenAI(model=model, temperature=0)
-    return model.stream(message)
-
-
 with st.sidebar:
     st.title("LLM Lab")
     reset_button = st.button("Start new chat", type="tertiary")
     selected_model = st.selectbox(
-        "Please select an OpenAI model.", ("gpt-4o-mini", "gpt-4o")
+        "Please select an OpenAI model.", ("gpt-4o-mini", "gpt-4o"), index=0
+    )
+
+    selected_output_type = st.selectbox(
+        "Please select an Output type.", ("Stream", "Invoke"), index=0
     )
 
 
+data = {
+    "PROMPT": [None],
+    "LOADER": [None],
+    "OUTPUT PARSER": [None],
+    "MODEL": [selected_model],
+    "CHAIN": [None],
+}
+df = pd.DataFrame(data)
+
 st.title("AI Assistant")
-st.caption("LLM chatbot in its simplest form, without chains and RAG")
+st.dataframe(df, use_container_width=True)
 st.divider()
 
 if reset_button:
@@ -61,6 +70,12 @@ if user_message:
     add_message("user", user_message)
     st.chat_message("user").write(user_message)
 
-    chat_stream_completion = generate_chat_completion(user_message, selected_model)
-    chat_completion = st.chat_message("assistant").write_stream(chat_stream_completion)
-    add_message("assistant", chat_completion)
+    model = ChatOpenAI(model=selected_model, temperature=0)
+    if selected_output_type == "Stream":
+        response = model.stream(user_message)
+        content = st.chat_message("assistant").write_stream(response)
+        add_message("assistant", content)
+    elif selected_output_type == "Invoke":
+        response = model.invoke(user_message)
+        st.chat_message("assistant").write(response.content)
+        add_message("assistant", response.content)

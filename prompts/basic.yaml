@@ -1,0 +1,3 @@
+_type: "prompt"
+template: "Make it easy to answer questions. #Question: {question}"
+input_variables: ["question"]
