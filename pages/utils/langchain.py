@@ -29,12 +29,12 @@ with st.expander("ChatOpenAI - stream()"):
 
     st.code(
         """model = ChatOpenAI(model="gpt-4o-mini", temperature=0)
-        question = "대한민국의 수도는?"
-        message_chunk = model.stream(question)
+question = "대한민국의 수도는?"
+message_chunk = model.stream(question)
         
-        for chunk in message_chunk:
-            st.json(chunk)
-        """,
+for chunk in message_chunk:
+    st.json(chunk)
+""",
         "python",
     )
     for chunk in message_chunk:
