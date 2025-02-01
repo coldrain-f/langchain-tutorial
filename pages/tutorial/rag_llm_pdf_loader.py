@@ -35,7 +35,7 @@ if "page_states" not in st.session_state:
     st.session_state["page_states"] = {}
 
 if "page_02" not in st.session_state["page_states"]:
-    st.session_state["page_states"]["page_02"]: Dict = {"messages": [], "chain": None}
+    st.session_state["page_states"]["page_02"] = {"messages": [], "chain": None}
 
 
 def get_session_state():
