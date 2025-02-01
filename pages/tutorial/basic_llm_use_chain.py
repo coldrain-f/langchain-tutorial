@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import os
 
 from langchain_core.messages.chat import ChatMessage
 from langchain_openai import ChatOpenAI
@@ -19,7 +20,6 @@ if "page_states" not in st.session_state:
 if "basic_llm_use_chain" not in st.session_state["page_states"]:
     st.session_state["page_states"]["basic_llm_use_chain"] = {
         "messages": [],
-        "chain": None,
     }
 
 
@@ -53,12 +53,11 @@ with st.sidebar:
     )
 
     st.subheader("Template")
-    st.code(
-        """_type: "prompt"
-template: "Make it easy to answer questions. #Question: {question}"
-input_variables: ["question"]""",
-        "yaml",
+    selected_template = st.selectbox(
+        "Please select an Template.", ("basic.yaml", "advanced.yaml")
     )
+    with open(f"./prompts/{selected_template}", "r", encoding="utf-8") as file:
+        st.code(file.read(), "yaml")
 
 
 data = {
@@ -82,14 +81,10 @@ display_messages()
 
 # Chain 구성
 session_state = get_session_state()
-if session_state["chain"] is None:
-    with st.spinner():
-        # 프롬프트 파일 불러오기
-        prompt = load_prompt("./prompts/basic.yaml")
-        model = ChatOpenAI(model=selected_model, temperature=0)
+prompt = load_prompt(f"./prompts/{selected_template}")
+model = ChatOpenAI(model=selected_model, temperature=0)
 
-        chain: RunnableSerializable[dict, str] = prompt | model | StrOutputParser()
-        session_state["chain"] = chain
+chain: RunnableSerializable[dict, str] = prompt | model | StrOutputParser()
 
 user_message = st.chat_input()
 
@@ -97,7 +92,6 @@ if user_message:
     add_message("user", user_message)
     st.chat_message("user").write(user_message)
 
-    chain = session_state["chain"]
     if selected_output_type == "Stream":
         message_chunk = chain.stream({"question": user_message})
         content = st.chat_message("assistant").write_stream(message_chunk)

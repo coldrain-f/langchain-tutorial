@@ -1,0 +1,11 @@
+_type: "prompt"
+template: |
+  Make it easy to answer questions. #Question: {question}"
+  You are an assistant for question-answering tasks.
+  If you don't know the answer, just say that you don't know.
+  Answer in Korean.
+
+  #Question: {question}
+
+  #Answer:
+input_variables: ["question"]
