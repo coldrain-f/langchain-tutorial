@@ -117,6 +117,8 @@ def create_chain(
 with st.sidebar:
     st.title("LLM Lab")
     reset_button = st.button("Start new chat", type="tertiary")
+
+    st.subheader("Options")
     selected_model = st.selectbox(
         "Please select an OpenAI model.", ("gpt-4o-mini", "gpt-4o")
     )

@@ -6,6 +6,7 @@ from langchain_openai import ChatOpenAI
 from langchain.prompts import PromptTemplate
 from langchain.schema.output_parser import StrOutputParser
 from langchain_core.runnables import RunnableSerializable
+from langchain_core.prompts import load_prompt
 
 from dotenv import load_dotenv
 from typing import List, Dict
@@ -42,12 +43,22 @@ def display_messages() -> None:
 with st.sidebar:
     st.title("LLM Lab")
     reset_button = st.button("Start new chat", type="tertiary")
+
+    st.subheader("Options")
     selected_model = st.selectbox(
         "Please select an OpenAI model.", ("gpt-4o-mini", "gpt-4o"), index=0
     )
 
     selected_output_type = st.selectbox(
         "Please select an Output type.", ("Stream", "Invoke"), index=0
+    )
+
+    st.subheader("Template")
+    st.code(
+        """_type: "prompt"
+template: "Make it easy to answer questions. #Question: {question}"
+input_variables: ["question"]""",
+        "yaml",
     )
 
 
@@ -73,14 +84,13 @@ display_messages()
 # Chain 구성
 session_state = get_session_state()
 if session_state["chain"] is None:
-    prompt = PromptTemplate.from_template(
-        """Make it easy to answer questions. #Question: {question}"""
-    )
+    with st.spinner():
+        # 프롬프트 파일 불러오기
+        prompt = load_prompt("./prompts/basic.yaml")
+        model = ChatOpenAI(model=selected_model, temperature=0)
 
-    model = ChatOpenAI(model=selected_model, temperature=0)
-
-    chain: RunnableSerializable[dict, str] = prompt | model | StrOutputParser()
-    session_state["chain"] = chain
+        chain: RunnableSerializable[dict, str] = prompt | model | StrOutputParser()
+        session_state["chain"] = chain
 
 user_message = st.chat_input()
 

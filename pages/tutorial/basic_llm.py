@@ -13,12 +13,12 @@ load_dotenv()
 if "page_states" not in st.session_state:
     st.session_state["page_states"] = {}
 
-if "page_01" not in st.session_state["page_states"]:
-    st.session_state["page_states"]["page_01"] = {"messages": []}
+if "basic_llm" not in st.session_state["page_states"]:
+    st.session_state["page_states"]["basic_llm"] = {"messages": []}
 
 
 def get_session_state() -> Dict:
-    return st.session_state["page_states"]["page_01"]
+    return st.session_state["page_states"]["basic_llm"]
 
 
 def add_message(role: str, message: str) -> None:
@@ -36,6 +36,8 @@ def display_messages() -> None:
 with st.sidebar:
     st.title("LLM Lab")
     reset_button = st.button("Start new chat", type="tertiary")
+
+    st.subheader("Options")
     selected_model = st.selectbox(
         "Please select an OpenAI model.", ("gpt-4o-mini", "gpt-4o"), index=0
     )
@@ -62,9 +64,9 @@ if reset_button:
     session_state = get_session_state()
     session_state["messages"] = []
 
-display_messages()
-
 user_message = st.chat_input()
+
+display_messages()
 
 if user_message:
     add_message("user", user_message)
