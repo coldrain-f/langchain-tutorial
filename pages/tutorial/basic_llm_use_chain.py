@@ -3,7 +3,6 @@ import pandas as pd
 
 from langchain_core.messages.chat import ChatMessage
 from langchain_openai import ChatOpenAI
-from langchain.prompts import PromptTemplate
 from langchain.schema.output_parser import StrOutputParser
 from langchain_core.runnables import RunnableSerializable
 from langchain_core.prompts import load_prompt

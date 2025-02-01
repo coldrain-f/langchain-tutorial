@@ -3,9 +3,8 @@ import pandas as pd
 import os
 
 from dotenv import load_dotenv
-from typing import List, Dict, Any
+from typing import List, Any
 
-from langchain_core.documents.base import Document
 from langchain_community.document_loaders import PyMuPDFLoader
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
@@ -142,7 +141,6 @@ if uploaded_files:
     retriever = embed_file(uploaded_files)
     session_state = get_session_state()
     session_state["chain"] = create_chain(selected_model, retriever)
-    st.write("Chain 생성")
 
 
 if reset_button:
