@@ -12,6 +12,9 @@ pages = {
         ),
         st.Page("./pages/tutorial/rag_llm_pdf_loader.py", title="RAG LLM - PDF Loader"),
     ],
-    "Utils": [st.Page("./pages/utils/langchain.py", title="LangChain")],
+    "Utils": [
+        st.Page("./pages/utils/langchain.py", title="LangChain"),
+        st.Page("./pages/utils/web_base_loader.py", title="JPDB Web Crawling"),
+    ],
 }
 st.navigation(pages).run()
