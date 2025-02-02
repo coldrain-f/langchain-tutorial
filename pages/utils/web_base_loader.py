@@ -60,7 +60,7 @@ if json_file_for_meaning:
         index = 0
         newWords = []
         for json_data in json_file:
-            if index >= 50:
+            if index >= 26220:
                 break
 
             input = {"expression": json_data["Expression"]}
@@ -73,7 +73,9 @@ if json_file_for_meaning:
             }
             newWords.append(words)
             index += 1
-            generator_progress_bar.progress(int((index / 50) * 100), text=progress_text)
+            generator_progress_bar.progress(
+                int((index / 26220) * 100), text=progress_text
+            )
 
         st.download_button(
             label="Download New JSON",
