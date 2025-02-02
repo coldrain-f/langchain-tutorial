@@ -5,3 +5,4 @@ pymupdf
 langchain-openai
 langchain-community
 langchain-core
+beautiful-soup
