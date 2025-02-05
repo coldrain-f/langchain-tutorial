@@ -6,3 +6,6 @@ langchain-openai
 langchain-community
 langchain-core
 beautifulsoup4
+unstructured
+selenium
+webdriver_manager

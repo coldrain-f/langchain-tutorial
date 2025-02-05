@@ -107,11 +107,11 @@ if submit_button:
             login_url = "https://jpdb.io/login"
             st.session_state["session"].post(login_url, data=login_info)
 
-            frequency = 1
+            frequency = begin
             words = []
             for offset in range(begin, end, 50):
                 response = st.session_state["session"].get(
-                    f"https://jpdb.io/deck?id=6&offset={offset}"
+                    f"https://jpdb.io/deck?id=7&offset={offset}"
                 )
                 response.encoding = "utf-8"
 
