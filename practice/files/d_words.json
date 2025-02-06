@@ -1,0 +1,6002 @@
+[
+  {
+    "Frequency": "1",
+    "Expression": "こと",
+    "Furigana": "",
+    "Meaning": "일 · 것 · 사항"
+  },
+  {
+    "Frequency": "2",
+    "Expression": "もの",
+    "Furigana": "",
+    "Meaning": "물건 · 것"
+  },
+  {
+    "Frequency": "3",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "4",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "5",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "6",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "7",
+    "Expression": "顔",
+    "Furigana": "かお",
+    "Meaning": "얼굴"
+  },
+  {
+    "Frequency": "8",
+    "Expression": "ため",
+    "Furigana": "",
+    "Meaning": "위하여 · 때문에"
+  },
+  {
+    "Frequency": "9",
+    "Expression": "話",
+    "Furigana": "はなし",
+    "Meaning": "이야기 · 말 · 말씀 · 대화"
+  },
+  {
+    "Frequency": "10",
+    "Expression": "ところ",
+    "Furigana": "ところ",
+    "Meaning": "곳 · 장소 · 부분 · 때"
+  },
+  {
+    "Frequency": "11",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "12",
+    "Expression": "手",
+    "Furigana": "て",
+    "Meaning": "손 · 수단 · 방법"
+  },
+  {
+    "Frequency": "13",
+    "Expression": "方",
+    "Furigana": "かた",
+    "Meaning": "방법 · 방향 · 쪽 · 사람"
+  },
+  {
+    "Frequency": "14",
+    "Expression": "目",
+    "Furigana": "め",
+    "Meaning": "눈 · 시선 · 눈길"
+  },
+  {
+    "Frequency": "15",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "16",
+    "Expression": "本当",
+    "Furigana": "ほんとう",
+    "Meaning": "진실 · 정말"
+  },
+  {
+    "Frequency": "17",
+    "Expression": "今日",
+    "Furigana": "きょう",
+    "Meaning": "오늘"
+  },
+  {
+    "Frequency": "18",
+    "Expression": "ほど",
+    "Furigana": "",
+    "Meaning": "정도 · 만큼"
+  },
+  {
+    "Frequency": "19",
+    "Expression": "言葉",
+    "Furigana": "ことば",
+    "Meaning": "말 · 말씀 · 단어"
+  },
+  {
+    "Frequency": "20",
+    "Expression": "ただ",
+    "Furigana": "",
+    "Meaning": "단지 · 그저 · 다만"
+  },
+  {
+    "Frequency": "21",
+    "Expression": "少し",
+    "Furigana": "すこし",
+    "Meaning": "조금 · 약간"
+  },
+  {
+    "Frequency": "22",
+    "Expression": "時",
+    "Furigana": "とき",
+    "Meaning": "시간 · 때"
+  },
+  {
+    "Frequency": "23",
+    "Expression": "家",
+    "Furigana": "いえ",
+    "Meaning": "집 · 가정"
+  },
+  {
+    "Frequency": "24",
+    "Expression": "あれ",
+    "Furigana": "",
+    "Meaning": "저것 · 그것"
+  },
+  {
+    "Frequency": "25",
+    "Expression": "彼",
+    "Furigana": "かれ",
+    "Meaning": "그 · 그 사람"
+  },
+  {
+    "Frequency": "26",
+    "Expression": "人間",
+    "Furigana": "にんげん",
+    "Meaning": "인간 · 사람"
+  },
+  {
+    "Frequency": "27",
+    "Expression": "同じ",
+    "Furigana": "おなじ",
+    "Meaning": "같은 · 동일한"
+  },
+  {
+    "Frequency": "28",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "29",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "30",
+    "Expression": "時間",
+    "Furigana": "じかん",
+    "Meaning": "시간"
+  },
+  {
+    "Frequency": "31",
+    "Expression": "部屋",
+    "Furigana": "へや",
+    "Meaning": "방 · 실"
+  },
+  {
+    "Frequency": "32",
+    "Expression": "わけ",
+    "Furigana": "わけ",
+    "Meaning": "이유 · 까닭 · 사정"
+  },
+  {
+    "Frequency": "33",
+    "Expression": "まま",
+    "Furigana": "",
+    "Meaning": "그대로 · 상태"
+  },
+  {
+    "Frequency": "34",
+    "Expression": "姿",
+    "Furigana": "すがた",
+    "Meaning": "모습 · 자태"
+  },
+  {
+    "Frequency": "35",
+    "Expression": "頭",
+    "Furigana": "あたま",
+    "Meaning": "머리 · 두뇌 · 정수리"
+  },
+  {
+    "Frequency": "36",
+    "Expression": "好き",
+    "Furigana": "すき",
+    "Meaning": "좋아함 · 좋아하는"
+  },
+  {
+    "Frequency": "37",
+    "Expression": "相手",
+    "Furigana": "あいて",
+    "Meaning": "상대 · 상대방"
+  },
+  {
+    "Frequency": "38",
+    "Expression": "みんな",
+    "Furigana": "みんな",
+    "Meaning": "모두 · 모든 사람 · 전부"
+  },
+  {
+    "Frequency": "39",
+    "Expression": "音",
+    "Furigana": "おと",
+    "Meaning": "소리 · 음"
+  },
+  {
+    "Frequency": "40",
+    "Expression": "うち",
+    "Furigana": "",
+    "Meaning": "집 · 우리 집 · 안"
+  },
+  {
+    "Frequency": "41",
+    "Expression": "場所",
+    "Furigana": "ばしょ",
+    "Meaning": "장소 · 곳"
+  },
+  {
+    "Frequency": "42",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "43",
+    "Expression": "世界",
+    "Furigana": "せかい",
+    "Meaning": "세계 · 세상"
+  },
+  {
+    "Frequency": "44",
+    "Expression": "力",
+    "Furigana": "ちから",
+    "Meaning": "힘 · 능력 · 실력"
+  },
+  {
+    "Frequency": "45",
+    "Expression": "仕事",
+    "Furigana": "しごと",
+    "Meaning": "일 · 직업 · 일자리"
+  },
+  {
+    "Frequency": "46",
+    "Expression": "必要",
+    "Furigana": "ひつよう",
+    "Meaning": "필요 · 필요한"
+  },
+  {
+    "Frequency": "47",
+    "Expression": "つもり",
+    "Furigana": "つもり",
+    "Meaning": "생각 · 의향 · 작정"
+  },
+  {
+    "Frequency": "48",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "49",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "50",
+    "Expression": "意味",
+    "Furigana": "いみ",
+    "Meaning": "의미 · 뜻"
+  },
+  {
+    "Frequency": "51",
+    "Expression": "気持ち",
+    "Furigana": "きもち",
+    "Meaning": "기분 · 마음 · 감정"
+  },
+  {
+    "Frequency": "52",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "53",
+    "Expression": "年",
+    "Furigana": "とし",
+    "Meaning": "해 · 나이 · 연도"
+  },
+  {
+    "Frequency": "54",
+    "Expression": "心配",
+    "Furigana": "しんぱい",
+    "Meaning": "걱정 · 염려"
+  },
+  {
+    "Frequency": "55",
+    "Expression": "心",
+    "Furigana": "こころ",
+    "Meaning": "마음 · 심장"
+  },
+  {
+    "Frequency": "56",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "57",
+    "Expression": "間",
+    "Furigana": "あいだ",
+    "Meaning": "사이 · 동안 · 틈"
+  },
+  {
+    "Frequency": "58",
+    "Expression": "後",
+    "Furigana": "あと",
+    "Meaning": "뒤 · 후 · 다음 · 이후"
+  },
+  {
+    "Frequency": "59",
+    "Expression": "様子",
+    "Furigana": "ようす",
+    "Meaning": "모양 · 상태 · 형편 · 상황"
+  },
+  {
+    "Frequency": "60",
+    "Expression": "口",
+    "Furigana": "くち",
+    "Meaning": "입 · 입구 · 출구"
+  },
+  {
+    "Frequency": "61",
+    "Expression": "名前",
+    "Furigana": "なまえ",
+    "Meaning": "이름"
+  },
+  {
+    "Frequency": "62",
+    "Expression": "問題",
+    "Furigana": "もんだい",
+    "Meaning": "문제 · 과제"
+  },
+  {
+    "Frequency": "63",
+    "Expression": "理由",
+    "Furigana": "りゆう",
+    "Meaning": "이유 · 까닭"
+  },
+  {
+    "Frequency": "64",
+    "Expression": "これから",
+    "Furigana": "",
+    "Meaning": "지금부터 · 앞으로"
+  },
+  {
+    "Frequency": "65",
+    "Expression": "以上",
+    "Furigana": "いじょう",
+    "Meaning": "이상"
+  },
+  {
+    "Frequency": "66",
+    "Expression": "絶対",
+    "Furigana": "ぜったい",
+    "Meaning": "절대 · 절대적"
+  },
+  {
+    "Frequency": "67",
+    "Expression": "今度",
+    "Furigana": "こんど",
+    "Meaning": "이번 · 다음번"
+  },
+  {
+    "Frequency": "68",
+    "Expression": "最後",
+    "Furigana": "さいご",
+    "Meaning": "마지막 · 최후"
+  },
+  {
+    "Frequency": "69",
+    "Expression": "最初",
+    "Furigana": "さいしょ",
+    "Meaning": "처음 · 맨처음"
+  },
+  {
+    "Frequency": "70",
+    "Expression": "存在",
+    "Furigana": "そんざい",
+    "Meaning": "존재"
+  },
+  {
+    "Frequency": "71",
+    "Expression": "体",
+    "Furigana": "からだ",
+    "Meaning": "몸 · 신체"
+  },
+  {
+    "Frequency": "72",
+    "Expression": "そのまま",
+    "Furigana": "",
+    "Meaning": "그대로 · 있는 그대로"
+  },
+  {
+    "Frequency": "73",
+    "Expression": "あり",
+    "Furigana": "",
+    "Meaning": "있음 · 존재"
+  },
+  {
+    "Frequency": "74",
+    "Expression": "無理",
+    "Furigana": "むり",
+    "Meaning": "무리 · 불가능 · 강제"
+  },
+  {
+    "Frequency": "75",
+    "Expression": "どこか",
+    "Furigana": "",
+    "Meaning": "어딘가 · 어디든지"
+  },
+  {
+    "Frequency": "76",
+    "Expression": "夜",
+    "Furigana": "よる",
+    "Meaning": "밤 · 저녁"
+  },
+  {
+    "Frequency": "77",
+    "Expression": "感じ",
+    "Furigana": "かんじ",
+    "Meaning": "느낌 · 감각"
+  },
+  {
+    "Frequency": "78",
+    "Expression": "気",
+    "Furigana": "き",
+    "Meaning": "마음 · 기분 · 공기"
+  },
+  {
+    "Frequency": "79",
+    "Expression": "以外",
+    "Furigana": "いがい",
+    "Meaning": "이외 · 제외"
+  },
+  {
+    "Frequency": "80",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "81",
+    "Expression": "足",
+    "Furigana": "あし",
+    "Meaning": "다리 · 발"
+  },
+  {
+    "Frequency": "82",
+    "Expression": "説明",
+    "Furigana": "せつめい",
+    "Meaning": "설명"
+  },
+  {
+    "Frequency": "83",
+    "Expression": "女性",
+    "Furigana": "じょせい",
+    "Meaning": "여성 · 여자"
+  },
+  {
+    "Frequency": "84",
+    "Expression": "あまり",
+    "Furigana": "あまり",
+    "Meaning": "그다지 · 별로"
+  },
+  {
+    "Frequency": "85",
+    "Expression": "すぐ",
+    "Furigana": "",
+    "Meaning": "곧 · 즉시 · 바로"
+  },
+  {
+    "Frequency": "86",
+    "Expression": "状況",
+    "Furigana": "じょうきょう",
+    "Meaning": "상황 · 정황"
+  },
+  {
+    "Frequency": "87",
+    "Expression": "関係",
+    "Furigana": "かんけい",
+    "Meaning": "관계 · 관련"
+  },
+  {
+    "Frequency": "88",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "89",
+    "Expression": "夢",
+    "Furigana": "ゆめ",
+    "Meaning": "꿈"
+  },
+  {
+    "Frequency": "90",
+    "Expression": "理解",
+    "Furigana": "りかい",
+    "Meaning": "이해 · 이해하다"
+  },
+  {
+    "Frequency": "91",
+    "Expression": "場合",
+    "Furigana": "ばあい",
+    "Meaning": "경우 · 상황"
+  },
+  {
+    "Frequency": "92",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "93",
+    "Expression": "一度",
+    "Furigana": "いちど",
+    "Meaning": "한 번 · 한때"
+  },
+  {
+    "Frequency": "94",
+    "Expression": "方",
+    "Furigana": "かた",
+    "Meaning": "방법 · 방향 · 쪽 · 분 · 사람"
+  },
+  {
+    "Frequency": "95",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "96",
+    "Expression": "水",
+    "Furigana": "みず",
+    "Meaning": "물"
+  },
+  {
+    "Frequency": "97",
+    "Expression": "近く",
+    "Furigana": "ちかく",
+    "Meaning": "근처 · 가까이"
+  },
+  {
+    "Frequency": "98",
+    "Expression": "大変",
+    "Furigana": "たいへん",
+    "Meaning": "큰일 · 매우 · 대단히"
+  },
+  {
+    "Frequency": "99",
+    "Expression": "道",
+    "Furigana": "みち",
+    "Meaning": "길 · 도로 · 방법"
+  },
+  {
+    "Frequency": "100",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "101",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "102",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "103",
+    "Expression": "完全",
+    "Furigana": "かんぜん",
+    "Meaning": "완전 · 완벽"
+  },
+  {
+    "Frequency": "104",
+    "Expression": "状態",
+    "Furigana": "じょうたい",
+    "Meaning": "상태 · 형편"
+  },
+  {
+    "Frequency": "105",
+    "Expression": "形",
+    "Furigana": "かたち",
+    "Meaning": "모양 · 형태"
+  },
+  {
+    "Frequency": "106",
+    "Expression": "勝手",
+    "Furigana": "かって",
+    "Meaning": "제멋대로 · 마음대로"
+  },
+  {
+    "Frequency": "107",
+    "Expression": "結果",
+    "Furigana": "けっか",
+    "Meaning": "결과 · 결말"
+  },
+  {
+    "Frequency": "108",
+    "Expression": "朝",
+    "Furigana": "あさ",
+    "Meaning": "아침 · 오전"
+  },
+  {
+    "Frequency": "109",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "110",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "111",
+    "Expression": "最近",
+    "Furigana": "さいきん",
+    "Meaning": "최근 · 요즘"
+  },
+  {
+    "Frequency": "112",
+    "Expression": "大",
+    "Furigana": "だい",
+    "Meaning": "크다 · 위대하다"
+  },
+  {
+    "Frequency": "113",
+    "Expression": "準備",
+    "Furigana": "じゅんび",
+    "Meaning": "준비"
+  },
+  {
+    "Frequency": "114",
+    "Expression": "不安",
+    "Furigana": "ふあん",
+    "Meaning": "불안 · 걱정"
+  },
+  {
+    "Frequency": "115",
+    "Expression": "安心",
+    "Furigana": "あんしん",
+    "Meaning": "안심 · 마음이 편함"
+  },
+  {
+    "Frequency": "116",
+    "Expression": "ほとんど",
+    "Furigana": "",
+    "Meaning": "대부분 · 거의"
+  },
+  {
+    "Frequency": "117",
+    "Expression": "用意",
+    "Furigana": "ようい",
+    "Meaning": "준비 · 용의"
+  },
+  {
+    "Frequency": "118",
+    "Expression": "家族",
+    "Furigana": "かぞく",
+    "Meaning": "가족"
+  },
+  {
+    "Frequency": "119",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "120",
+    "Expression": "元気",
+    "Furigana": "げんき",
+    "Meaning": "건강 · 기운 · 원기"
+  },
+  {
+    "Frequency": "121",
+    "Expression": "思い",
+    "Furigana": "おもい",
+    "Meaning": "생각 · 마음"
+  },
+  {
+    "Frequency": "122",
+    "Expression": "なかなか",
+    "Furigana": "",
+    "Meaning": "좀처럼 · 꽤 · 상당히"
+  },
+  {
+    "Frequency": "123",
+    "Expression": "たくさん",
+    "Furigana": "",
+    "Meaning": "많이 · 다수 · 다량"
+  },
+  {
+    "Frequency": "124",
+    "Expression": "目的",
+    "Furigana": "もくてき",
+    "Meaning": "목적 · 목표"
+  },
+  {
+    "Frequency": "125",
+    "Expression": "生活",
+    "Furigana": "せいかつ",
+    "Meaning": "생활"
+  },
+  {
+    "Frequency": "126",
+    "Expression": "方法",
+    "Furigana": "ほうほう",
+    "Meaning": "방법 · 방식"
+  },
+  {
+    "Frequency": "127",
+    "Expression": "後",
+    "Furigana": "あと",
+    "Meaning": "뒤 · 후 · 다음 · 나중"
+  },
+  {
+    "Frequency": "128",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "129",
+    "Expression": "十分",
+    "Furigana": "じゅうぶん",
+    "Meaning": "충분 · 충분한"
+  },
+  {
+    "Frequency": "130",
+    "Expression": "途中",
+    "Furigana": "とちゅう",
+    "Meaning": "도중 · 중도"
+  },
+  {
+    "Frequency": "131",
+    "Expression": "側",
+    "Furigana": "そば",
+    "Meaning": "곁 · 옆 · 가까이"
+  },
+  {
+    "Frequency": "132",
+    "Expression": "期待",
+    "Furigana": "きたい",
+    "Meaning": "기대 · 기대하다"
+  },
+  {
+    "Frequency": "133",
+    "Expression": "その後",
+    "Furigana": "",
+    "Meaning": "그 후 · 그 다음"
+  },
+  {
+    "Frequency": "134",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "135",
+    "Expression": "毎日",
+    "Furigana": "まいにち",
+    "Meaning": "매일 · 날마다"
+  },
+  {
+    "Frequency": "136",
+    "Expression": "自由",
+    "Furigana": "じゆう",
+    "Meaning": "자유"
+  },
+  {
+    "Frequency": "137",
+    "Expression": "原因",
+    "Furigana": "げんいん",
+    "Meaning": "원인 · 이유"
+  },
+  {
+    "Frequency": "138",
+    "Expression": "彼女",
+    "Furigana": "かのじょ",
+    "Meaning": "그녀 · 여자친구"
+  },
+  {
+    "Frequency": "139",
+    "Expression": "君",
+    "Furigana": "きみ",
+    "Meaning": "너 · 당신"
+  },
+  {
+    "Frequency": "140",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "141",
+    "Expression": "二人",
+    "Furigana": "ふたり",
+    "Meaning": "두 사람 · 둘"
+  },
+  {
+    "Frequency": "142",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "143",
+    "Expression": "先生",
+    "Furigana": "せんせい",
+    "Meaning": "선생님 · 의사 · 스승"
+  },
+  {
+    "Frequency": "144",
+    "Expression": "他",
+    "Furigana": "ほか",
+    "Meaning": "다른 · 그 밖의"
+  },
+  {
+    "Frequency": "145",
+    "Expression": "事",
+    "Furigana": "こと",
+    "Meaning": "일 · 사건 · 일이 · 것"
+  },
+  {
+    "Frequency": "146",
+    "Expression": "胸",
+    "Furigana": "むね",
+    "Meaning": "가슴 · 흉부"
+  },
+  {
+    "Frequency": "147",
+    "Expression": "さっき",
+    "Furigana": "さっき",
+    "Meaning": "방금 · 조금 전"
+  },
+  {
+    "Frequency": "148",
+    "Expression": "一番",
+    "Furigana": "いちばん",
+    "Meaning": "가장 · 제일"
+  },
+  {
+    "Frequency": "149",
+    "Expression": "一人",
+    "Furigana": "ひとり",
+    "Meaning": "혼자 · 한 사람"
+  },
+  {
+    "Frequency": "150",
+    "Expression": "表情",
+    "Furigana": "ひょうじょう",
+    "Meaning": "표정 · 얼굴빛"
+  },
+  {
+    "Frequency": "151",
+    "Expression": "つまり",
+    "Furigana": "",
+    "Meaning": "즉 · 요컨대"
+  },
+  {
+    "Frequency": "152",
+    "Expression": "腕",
+    "Furigana": "うで",
+    "Meaning": "팔 · 팔뚝 · 솜씨"
+  },
+  {
+    "Frequency": "153",
+    "Expression": "確認",
+    "Furigana": "かくにん",
+    "Meaning": "확인 · 확인하다"
+  },
+  {
+    "Frequency": "154",
+    "Expression": "全部",
+    "Furigana": "ぜんぶ",
+    "Meaning": "전부 · 모두"
+  },
+  {
+    "Frequency": "155",
+    "Expression": "何度",
+    "Furigana": "なんど",
+    "Meaning": "몇 번 · 몇 차례"
+  },
+  {
+    "Frequency": "156",
+    "Expression": "子供",
+    "Furigana": "こども",
+    "Meaning": "아이 · 어린이"
+  },
+  {
+    "Frequency": "157",
+    "Expression": "光",
+    "Furigana": "ひかり",
+    "Meaning": "빛 · 광명"
+  },
+  {
+    "Frequency": "158",
+    "Expression": "もん",
+    "Furigana": "",
+    "Meaning": "것 · 물건"
+  },
+  {
+    "Frequency": "159",
+    "Expression": "瞬間",
+    "Furigana": "しゅんかん",
+    "Meaning": "순간 · 찰나"
+  },
+  {
+    "Frequency": "160",
+    "Expression": "今まで",
+    "Furigana": "いま",
+    "Meaning": "지금까지 · 이제까지"
+  },
+  {
+    "Frequency": "161",
+    "Expression": "嫌",
+    "Furigana": "いや",
+    "Meaning": "싫음 · 싫어함"
+  },
+  {
+    "Frequency": "162",
+    "Expression": "明日",
+    "Furigana": "あした",
+    "Meaning": "내일"
+  },
+  {
+    "Frequency": "163",
+    "Expression": "娘",
+    "Furigana": "むすめ",
+    "Meaning": "딸 · 아가씨"
+  },
+  {
+    "Frequency": "164",
+    "Expression": "今回",
+    "Furigana": "こんかい",
+    "Meaning": "이번 · 이번에"
+  },
+  {
+    "Frequency": "165",
+    "Expression": "やつ",
+    "Furigana": "やつ",
+    "Meaning": "녀석 · 놈 · 자"
+  },
+  {
+    "Frequency": "166",
+    "Expression": "昨日",
+    "Furigana": "きのう",
+    "Meaning": "어제"
+  },
+  {
+    "Frequency": "167",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "168",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "169",
+    "Expression": "奥",
+    "Furigana": "おく",
+    "Meaning": "안쪽 · 깊숙한 곳 · 안방"
+  },
+  {
+    "Frequency": "170",
+    "Expression": "笑顔",
+    "Furigana": "えがお",
+    "Meaning": "웃는 얼굴 · 미소"
+  },
+  {
+    "Frequency": "171",
+    "Expression": "目の前",
+    "Furigana": "めのまえ",
+    "Meaning": "눈앞 · 면전"
+  },
+  {
+    "Frequency": "172",
+    "Expression": "お願い",
+    "Furigana": "おねがい",
+    "Meaning": "부탁 · 소원"
+  },
+  {
+    "Frequency": "173",
+    "Expression": "せい",
+    "Furigana": "せい",
+    "Meaning": "키 · 신장 · 성장"
+  },
+  {
+    "Frequency": "174",
+    "Expression": "女の子",
+    "Furigana": "おんなのこ",
+    "Meaning": "여자아이 · 소녀"
+  },
+  {
+    "Frequency": "175",
+    "Expression": "敵",
+    "Furigana": "てき",
+    "Meaning": "적 · 원수"
+  },
+  {
+    "Frequency": "176",
+    "Expression": "後ろ",
+    "Furigana": "うしろ",
+    "Meaning": "뒤 · 뒤쪽"
+  },
+  {
+    "Frequency": "177",
+    "Expression": "物",
+    "Furigana": "もの",
+    "Meaning": "물건 · 물체"
+  },
+  {
+    "Frequency": "178",
+    "Expression": "髪",
+    "Furigana": "かみ",
+    "Meaning": "머리카락"
+  },
+  {
+    "Frequency": "179",
+    "Expression": "一瞬",
+    "Furigana": "いっしゅん",
+    "Meaning": "순간 · 찰나"
+  },
+  {
+    "Frequency": "180",
+    "Expression": "隣",
+    "Furigana": "となり",
+    "Meaning": "옆 · 이웃"
+  },
+  {
+    "Frequency": "181",
+    "Expression": "不思議",
+    "Furigana": "ふしぎ",
+    "Meaning": "불가사의 · 이상함 · 신기함"
+  },
+  {
+    "Frequency": "182",
+    "Expression": "記憶",
+    "Furigana": "きおく",
+    "Meaning": "기억"
+  },
+  {
+    "Frequency": "183",
+    "Expression": "すべて",
+    "Furigana": "",
+    "Meaning": "전부 · 모두 · 모든 것"
+  },
+  {
+    "Frequency": "184",
+    "Expression": "学校",
+    "Furigana": "がっこう",
+    "Meaning": "학교"
+  },
+  {
+    "Frequency": "185",
+    "Expression": "情報",
+    "Furigana": "じょうほう",
+    "Meaning": "정보"
+  },
+  {
+    "Frequency": "186",
+    "Expression": "意識",
+    "Furigana": "いしき",
+    "Meaning": "의식 · 자각"
+  },
+  {
+    "Frequency": "187",
+    "Expression": "肩",
+    "Furigana": "かた",
+    "Meaning": "어깨"
+  },
+  {
+    "Frequency": "188",
+    "Expression": "色",
+    "Furigana": "いろ",
+    "Meaning": "색 · 색깔"
+  },
+  {
+    "Frequency": "189",
+    "Expression": "結局",
+    "Furigana": "けっきょく",
+    "Meaning": "결국 · 마침내 · 끝내"
+  },
+  {
+    "Frequency": "190",
+    "Expression": "動き",
+    "Furigana": "うごき",
+    "Meaning": "움직임 · 동작"
+  },
+  {
+    "Frequency": "191",
+    "Expression": "指",
+    "Furigana": "ゆび",
+    "Meaning": "손가락"
+  },
+  {
+    "Frequency": "192",
+    "Expression": "可能性",
+    "Furigana": "かのうせい",
+    "Meaning": "가능성"
+  },
+  {
+    "Frequency": "193",
+    "Expression": "失礼",
+    "Furigana": "しつれい",
+    "Meaning": "실례 · 결례"
+  },
+  {
+    "Frequency": "194",
+    "Expression": "幸せ",
+    "Furigana": "しあわせ",
+    "Meaning": "행복 · 다행"
+  },
+  {
+    "Frequency": "195",
+    "Expression": "背中",
+    "Furigana": "せなか",
+    "Meaning": "등 · 등허리"
+  },
+  {
+    "Frequency": "196",
+    "Expression": "反応",
+    "Furigana": "はんのう",
+    "Meaning": "반응 · 응답"
+  },
+  {
+    "Frequency": "197",
+    "Expression": "壁",
+    "Furigana": "かべ",
+    "Meaning": "벽 · 장벽"
+  },
+  {
+    "Frequency": "198",
+    "Expression": "空",
+    "Furigana": "そら",
+    "Meaning": "하늘 · 공 · 빈"
+  },
+  {
+    "Frequency": "199",
+    "Expression": "約束",
+    "Furigana": "やくそく",
+    "Meaning": "약속 · 계약"
+  },
+  {
+    "Frequency": "200",
+    "Expression": "血",
+    "Furigana": "ち",
+    "Meaning": "피 · 혈액"
+  },
+  {
+    "Frequency": "201",
+    "Expression": "服",
+    "Furigana": "ふく",
+    "Meaning": "옷 · 의복"
+  },
+  {
+    "Frequency": "202",
+    "Expression": "事実",
+    "Furigana": "じじつ",
+    "Meaning": "사실 · 진실"
+  },
+  {
+    "Frequency": "203",
+    "Expression": "行動",
+    "Furigana": "こうどう",
+    "Meaning": "행동 · 활동"
+  },
+  {
+    "Frequency": "204",
+    "Expression": "友達",
+    "Furigana": "ともだち",
+    "Meaning": "친구"
+  },
+  {
+    "Frequency": "205",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "206",
+    "Expression": "自身",
+    "Furigana": "じしん",
+    "Meaning": "자신 · 스스로"
+  },
+  {
+    "Frequency": "207",
+    "Expression": "想像",
+    "Furigana": "そうぞう",
+    "Meaning": "상상 · 상상력"
+  },
+  {
+    "Frequency": "208",
+    "Expression": "父",
+    "Furigana": "ちち",
+    "Meaning": "아버지 · 부친"
+  },
+  {
+    "Frequency": "209",
+    "Expression": "身",
+    "Furigana": "み",
+    "Meaning": "몸 · 신체"
+  },
+  {
+    "Frequency": "210",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "211",
+    "Expression": "全員",
+    "Furigana": "ぜんいん",
+    "Meaning": "전원 · 모두"
+  },
+  {
+    "Frequency": "212",
+    "Expression": "頃",
+    "Furigana": "ころ",
+    "Meaning": "무렵 · 경 · 때"
+  },
+  {
+    "Frequency": "213",
+    "Expression": "そもそも",
+    "Furigana": "",
+    "Meaning": "애초에 · 원래 · 본래"
+  },
+  {
+    "Frequency": "214",
+    "Expression": "空気",
+    "Furigana": "くうき",
+    "Meaning": "공기 · 분위기"
+  },
+  {
+    "Frequency": "215",
+    "Expression": "母",
+    "Furigana": "はは",
+    "Meaning": "어머니 · 어머님"
+  },
+  {
+    "Frequency": "216",
+    "Expression": "首",
+    "Furigana": "くび",
+    "Meaning": "목 · 목덜미"
+  },
+  {
+    "Frequency": "217",
+    "Expression": "一体",
+    "Furigana": "いったい",
+    "Meaning": "도대체 · 대체"
+  },
+  {
+    "Frequency": "218",
+    "Expression": "店",
+    "Furigana": "みせ",
+    "Meaning": "가게 · 점포"
+  },
+  {
+    "Frequency": "219",
+    "Expression": "程度",
+    "Furigana": "ていど",
+    "Meaning": "정도 · 수준"
+  },
+  {
+    "Frequency": "220",
+    "Expression": "向こう",
+    "Furigana": "むこう",
+    "Meaning": "저쪽 · 맞은편 · 건너편"
+  },
+  {
+    "Frequency": "221",
+    "Expression": "神",
+    "Furigana": "かみ",
+    "Meaning": "신 · 하나님 · 정신"
+  },
+  {
+    "Frequency": "222",
+    "Expression": "気分",
+    "Furigana": "きぶん",
+    "Meaning": "기분 · 심정"
+  },
+  {
+    "Frequency": "223",
+    "Expression": "耳",
+    "Furigana": "みみ",
+    "Meaning": "귀"
+  },
+  {
+    "Frequency": "224",
+    "Expression": "通り",
+    "Furigana": "とおり",
+    "Meaning": "길 · 거리 · 통로"
+  },
+  {
+    "Frequency": "225",
+    "Expression": "仲間",
+    "Furigana": "なかま",
+    "Meaning": "동료 · 친구 · 동무"
+  },
+  {
+    "Frequency": "226",
+    "Expression": "山",
+    "Furigana": "やま",
+    "Meaning": "산"
+  },
+  {
+    "Frequency": "227",
+    "Expression": "感情",
+    "Furigana": "かんじょう",
+    "Meaning": "감정 · 정 · 기분"
+  },
+  {
+    "Frequency": "228",
+    "Expression": "結構",
+    "Furigana": "けっこう",
+    "Meaning": "꽤 · 상당히 · 제법"
+  },
+  {
+    "Frequency": "229",
+    "Expression": "危険",
+    "Furigana": "きけん",
+    "Meaning": "위험 · 위태"
+  },
+  {
+    "Frequency": "230",
+    "Expression": "以前",
+    "Furigana": "いぜん",
+    "Meaning": "이전 · 전에"
+  },
+  {
+    "Frequency": "231",
+    "Expression": "いくら",
+    "Furigana": "いくら",
+    "Meaning": "얼마 · 아무리"
+  },
+  {
+    "Frequency": "232",
+    "Expression": "本気",
+    "Furigana": "ほんき",
+    "Meaning": "진심 · 진정"
+  },
+  {
+    "Frequency": "233",
+    "Expression": "正直",
+    "Furigana": "しょうじき",
+    "Meaning": "정직 · 솔직"
+  },
+  {
+    "Frequency": "234",
+    "Expression": "事件",
+    "Furigana": "じけん",
+    "Meaning": "사건 · 사고"
+  },
+  {
+    "Frequency": "235",
+    "Expression": "周囲",
+    "Furigana": "しゅうい",
+    "Meaning": "주위 · 주변"
+  },
+  {
+    "Frequency": "236",
+    "Expression": "海",
+    "Furigana": "うみ",
+    "Meaning": "바다"
+  },
+  {
+    "Frequency": "237",
+    "Expression": "返事",
+    "Furigana": "へんじ",
+    "Meaning": "대답 · 회답"
+  },
+  {
+    "Frequency": "238",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "239",
+    "Expression": "窓",
+    "Furigana": "まど",
+    "Meaning": "창문"
+  },
+  {
+    "Frequency": "240",
+    "Expression": "結婚",
+    "Furigana": "けっこん",
+    "Meaning": "결혼"
+  },
+  {
+    "Frequency": "241",
+    "Expression": "会話",
+    "Furigana": "かいわ",
+    "Meaning": "대화 · 회화"
+  },
+  {
+    "Frequency": "242",
+    "Expression": "邪魔",
+    "Furigana": "じゃま",
+    "Meaning": "방해 · 장애"
+  },
+  {
+    "Frequency": "243",
+    "Expression": "腰",
+    "Furigana": "こし",
+    "Meaning": "허리"
+  },
+  {
+    "Frequency": "244",
+    "Expression": "確か",
+    "Furigana": "たしか",
+    "Meaning": "확실한 · 틀림없는 · 분명한"
+  },
+  {
+    "Frequency": "245",
+    "Expression": "いっぱい",
+    "Furigana": "いっぱい",
+    "Meaning": "가득 · 많이"
+  },
+  {
+    "Frequency": "246",
+    "Expression": "部分",
+    "Furigana": "ぶぶん",
+    "Meaning": "부분 · 일부"
+  },
+  {
+    "Frequency": "247",
+    "Expression": "無事",
+    "Furigana": "ぶじ",
+    "Meaning": "무사 · 안전"
+  },
+  {
+    "Frequency": "248",
+    "Expression": "せっかく",
+    "Furigana": "せっかく",
+    "Meaning": "모처럼 · 특별히"
+  },
+  {
+    "Frequency": "249",
+    "Expression": "風",
+    "Furigana": "かぜ",
+    "Meaning": "바람 · 풍속 · 모양새"
+  },
+  {
+    "Frequency": "250",
+    "Expression": "意外",
+    "Furigana": "いがい",
+    "Meaning": "의외 · 뜻밖"
+  },
+  {
+    "Frequency": "251",
+    "Expression": "花",
+    "Furigana": "はな",
+    "Meaning": "꽃"
+  },
+  {
+    "Frequency": "252",
+    "Expression": "涙",
+    "Furigana": "なみだ",
+    "Meaning": "눈물"
+  },
+  {
+    "Frequency": "253",
+    "Expression": "人生",
+    "Furigana": "じんせい",
+    "Meaning": "인생"
+  },
+  {
+    "Frequency": "254",
+    "Expression": "所",
+    "Furigana": "ところ",
+    "Meaning": "곳 · 장소"
+  },
+  {
+    "Frequency": "255",
+    "Expression": "料理",
+    "Furigana": "りょうり",
+    "Meaning": "요리 · 요리하기"
+  },
+  {
+    "Frequency": "256",
+    "Expression": "自然",
+    "Furigana": "しぜん",
+    "Meaning": "자연 · 당연"
+  },
+  {
+    "Frequency": "257",
+    "Expression": "周り",
+    "Furigana": "まわり",
+    "Meaning": "주위 · 주변 · 둘레"
+  },
+  {
+    "Frequency": "258",
+    "Expression": "納得",
+    "Furigana": "なっとく",
+    "Meaning": "납득 · 수긍"
+  },
+  {
+    "Frequency": "259",
+    "Expression": "必死",
+    "Furigana": "ひっし",
+    "Meaning": "필사적 · 죽을힘을 다하는"
+  },
+  {
+    "Frequency": "260",
+    "Expression": "場",
+    "Furigana": "ば",
+    "Meaning": "장소 · 마당 · 자리"
+  },
+  {
+    "Frequency": "261",
+    "Expression": "勢い",
+    "Furigana": "いきおい",
+    "Meaning": "기세 · 형세 · 추세"
+  },
+  {
+    "Frequency": "262",
+    "Expression": "答え",
+    "Furigana": "こたえ",
+    "Meaning": "답 · 답변 · 해답"
+  },
+  {
+    "Frequency": "263",
+    "Expression": "判断",
+    "Furigana": "はんだん",
+    "Meaning": "판단 · 판정"
+  },
+  {
+    "Frequency": "264",
+    "Expression": "横",
+    "Furigana": "よこ",
+    "Meaning": "옆 · 가로"
+  },
+  {
+    "Frequency": "265",
+    "Expression": "町",
+    "Furigana": "まち",
+    "Meaning": "마을 · 거리"
+  },
+  {
+    "Frequency": "266",
+    "Expression": "報告",
+    "Furigana": "ほうこく",
+    "Meaning": "보고 · 알림"
+  },
+  {
+    "Frequency": "267",
+    "Expression": "食事",
+    "Furigana": "しょくじ",
+    "Meaning": "식사"
+  },
+  {
+    "Frequency": "268",
+    "Expression": "緊張",
+    "Furigana": "きんちょう",
+    "Meaning": "긴장 · 팽팽함"
+  },
+  {
+    "Frequency": "269",
+    "Expression": "金",
+    "Furigana": "かね",
+    "Meaning": "돈 · 금전 · 금"
+  },
+  {
+    "Frequency": "270",
+    "Expression": "感謝",
+    "Furigana": "かんしゃ",
+    "Meaning": "감사 · 고마움"
+  },
+  {
+    "Frequency": "271",
+    "Expression": "日本",
+    "Furigana": "にほん",
+    "Meaning": "일본"
+  },
+  {
+    "Frequency": "272",
+    "Expression": "連絡",
+    "Furigana": "れんらく",
+    "Meaning": "연락"
+  },
+  {
+    "Frequency": "273",
+    "Expression": "いろいろ",
+    "Furigana": "",
+    "Meaning": "여러 가지 · 가지가지"
+  },
+  {
+    "Frequency": "274",
+    "Expression": "一応",
+    "Furigana": "いちおう",
+    "Meaning": "일단 · 어느 정도"
+  },
+  {
+    "Frequency": "275",
+    "Expression": "特別",
+    "Furigana": "とくべつ",
+    "Meaning": "특별"
+  },
+  {
+    "Frequency": "276",
+    "Expression": "時代",
+    "Furigana": "じだい",
+    "Meaning": "시대 · 세대"
+  },
+  {
+    "Frequency": "277",
+    "Expression": "終わり",
+    "Furigana": "おわり",
+    "Meaning": "끝 · 마지막 · 종말"
+  },
+  {
+    "Frequency": "278",
+    "Expression": "点",
+    "Furigana": "てん",
+    "Meaning": "점 · 성적 · 득점"
+  },
+  {
+    "Frequency": "279",
+    "Expression": "素直",
+    "Furigana": "すなお",
+    "Meaning": "솔직한 · 순수한"
+  },
+  {
+    "Frequency": "280",
+    "Expression": "態度",
+    "Furigana": "たいど",
+    "Meaning": "태도 · 자세"
+  },
+  {
+    "Frequency": "281",
+    "Expression": "失敗",
+    "Furigana": "しっぱい",
+    "Meaning": "실패 · 실수"
+  },
+  {
+    "Frequency": "282",
+    "Expression": "木",
+    "Furigana": "き",
+    "Meaning": "나무 · 목재"
+  },
+  {
+    "Frequency": "283",
+    "Expression": "それぞれ",
+    "Furigana": "それぞれ",
+    "Meaning": "각각 · 각자"
+  },
+  {
+    "Frequency": "284",
+    "Expression": "内容",
+    "Furigana": "ないよう",
+    "Meaning": "내용 · 속 · 안"
+  },
+  {
+    "Frequency": "285",
+    "Expression": "妙",
+    "Furigana": "みょう",
+    "Meaning": "묘 · 기묘하다 · 절묘하다"
+  },
+  {
+    "Frequency": "286",
+    "Expression": "冗談",
+    "Furigana": "じょうだん",
+    "Meaning": "농담 · 우스갯소리"
+  },
+  {
+    "Frequency": "287",
+    "Expression": "自ら",
+    "Furigana": "みずから",
+    "Meaning": "스스로 · 자진해서 · 직접"
+  },
+  {
+    "Frequency": "288",
+    "Expression": "雰囲気",
+    "Furigana": "ふんいき",
+    "Meaning": "분위기 · 기분"
+  },
+  {
+    "Frequency": "289",
+    "Expression": "移動",
+    "Furigana": "いどう",
+    "Meaning": "이동 · 옮김 · 움직임"
+  },
+  {
+    "Frequency": "290",
+    "Expression": "過去",
+    "Furigana": "かこ",
+    "Meaning": "과거"
+  },
+  {
+    "Frequency": "291",
+    "Expression": "余裕",
+    "Furigana": "よゆう",
+    "Meaning": "여유 · 마음의 여유"
+  },
+  {
+    "Frequency": "292",
+    "Expression": "嫌い",
+    "Furigana": "きらい",
+    "Meaning": "싫음 · 혐오"
+  },
+  {
+    "Frequency": "293",
+    "Expression": "質問",
+    "Furigana": "しつもん",
+    "Meaning": "질문"
+  },
+  {
+    "Frequency": "294",
+    "Expression": "人々",
+    "Furigana": "ひとびと",
+    "Meaning": "사람들 · 여러 사람"
+  },
+  {
+    "Frequency": "295",
+    "Expression": "現実",
+    "Furigana": "げんじつ",
+    "Meaning": "현실"
+  },
+  {
+    "Frequency": "296",
+    "Expression": "感覚",
+    "Furigana": "かんかく",
+    "Meaning": "감각 · 느낌"
+  },
+  {
+    "Frequency": "297",
+    "Expression": "未来",
+    "Furigana": "みらい",
+    "Meaning": "미래 · 장래"
+  },
+  {
+    "Frequency": "298",
+    "Expression": "興味",
+    "Furigana": "きょうみ",
+    "Meaning": "흥미 · 관심"
+  },
+  {
+    "Frequency": "299",
+    "Expression": "本人",
+    "Furigana": "ほんにん",
+    "Meaning": "본인 · 당사자"
+  },
+  {
+    "Frequency": "300",
+    "Expression": "能力",
+    "Furigana": "のうりょく",
+    "Meaning": "능력 · 실력"
+  },
+  {
+    "Frequency": "301",
+    "Expression": "その場",
+    "Furigana": "ば",
+    "Meaning": "현장 · 그 자리"
+  },
+  {
+    "Frequency": "302",
+    "Expression": "事情",
+    "Furigana": "じじょう",
+    "Meaning": "사정 · 실정 · 내용 · 사태"
+  },
+  {
+    "Frequency": "303",
+    "Expression": "あそこ",
+    "Furigana": "あそこ",
+    "Meaning": "저기 · 그곳"
+  },
+  {
+    "Frequency": "304",
+    "Expression": "一緒",
+    "Furigana": "いっしょ",
+    "Meaning": "함께 · 동반"
+  },
+  {
+    "Frequency": "305",
+    "Expression": "息",
+    "Furigana": "いき",
+    "Meaning": "숨 · 호흡"
+  },
+  {
+    "Frequency": "306",
+    "Expression": "予定",
+    "Furigana": "よてい",
+    "Meaning": "예정 · 계획"
+  },
+  {
+    "Frequency": "307",
+    "Expression": "距離",
+    "Furigana": "きょり",
+    "Meaning": "거리 · 간격"
+  },
+  {
+    "Frequency": "308",
+    "Expression": "多く",
+    "Furigana": "おおく",
+    "Meaning": "많이 · 다수"
+  },
+  {
+    "Frequency": "309",
+    "Expression": "残念",
+    "Furigana": "ざんねん",
+    "Meaning": "유감 · 안타까움"
+  },
+  {
+    "Frequency": "310",
+    "Expression": "覚悟",
+    "Furigana": "かくご",
+    "Meaning": "각오 · 결심"
+  },
+  {
+    "Frequency": "311",
+    "Expression": "勉強",
+    "Furigana": "べんきょう",
+    "Meaning": "공부 · 학습"
+  },
+  {
+    "Frequency": "312",
+    "Expression": "自信",
+    "Furigana": "じしん",
+    "Meaning": "자신감 · 확신"
+  },
+  {
+    "Frequency": "313",
+    "Expression": "我慢",
+    "Furigana": "がまん",
+    "Meaning": "인내 · 참음"
+  },
+  {
+    "Frequency": "314",
+    "Expression": "相談",
+    "Furigana": "そうだん",
+    "Meaning": "상담 · 의논"
+  },
+  {
+    "Frequency": "315",
+    "Expression": "死",
+    "Furigana": "し",
+    "Meaning": "죽음 · 사망"
+  },
+  {
+    "Frequency": "316",
+    "Expression": "半分",
+    "Furigana": "はんぶん",
+    "Meaning": "절반 · 반"
+  },
+  {
+    "Frequency": "317",
+    "Expression": "人物",
+    "Furigana": "じんぶつ",
+    "Meaning": "인물 · 사람"
+  },
+  {
+    "Frequency": "318",
+    "Expression": "親",
+    "Furigana": "おや",
+    "Meaning": "부모 · 친척"
+  },
+  {
+    "Frequency": "319",
+    "Expression": "経験",
+    "Furigana": "けいけん",
+    "Meaning": "경험 · 체험"
+  },
+  {
+    "Frequency": "320",
+    "Expression": "席",
+    "Furigana": "せき",
+    "Meaning": "좌석 · 자리"
+  },
+  {
+    "Frequency": "321",
+    "Expression": "現在",
+    "Furigana": "げんざい",
+    "Meaning": "현재 · 지금"
+  },
+  {
+    "Frequency": "322",
+    "Expression": "直接",
+    "Furigana": "ちょくせつ",
+    "Meaning": "직접"
+  },
+  {
+    "Frequency": "323",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "324",
+    "Expression": "件",
+    "Furigana": "けん",
+    "Meaning": "건 · 사건 · 조건"
+  },
+  {
+    "Frequency": "325",
+    "Expression": "当たり前",
+    "Furigana": "あたりまえ",
+    "Meaning": "당연 · 당연한 일"
+  },
+  {
+    "Frequency": "326",
+    "Expression": "お金",
+    "Furigana": "おかね",
+    "Meaning": "돈 · 금전"
+  },
+  {
+    "Frequency": "327",
+    "Expression": "他人",
+    "Furigana": "たにん",
+    "Meaning": "타인 · 남"
+  },
+  {
+    "Frequency": "328",
+    "Expression": "母親",
+    "Furigana": "ははおや",
+    "Meaning": "어머니 · 엄마"
+  },
+  {
+    "Frequency": "329",
+    "Expression": "立場",
+    "Furigana": "たちば",
+    "Meaning": "입장 · 처지 · 위치"
+  },
+  {
+    "Frequency": "330",
+    "Expression": "風",
+    "Furigana": "かぜ",
+    "Meaning": "바람 · 풍속 · 모양새"
+  },
+  {
+    "Frequency": "331",
+    "Expression": "協力",
+    "Furigana": "きょうりょく",
+    "Meaning": "협력 · 협조"
+  },
+  {
+    "Frequency": "332",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "333",
+    "Expression": "変化",
+    "Furigana": "へんか",
+    "Meaning": "변화 · 변천"
+  },
+  {
+    "Frequency": "334",
+    "Expression": "男性",
+    "Furigana": "だんせい",
+    "Meaning": "남성 · 남자"
+  },
+  {
+    "Frequency": "335",
+    "Expression": "車",
+    "Furigana": "くるま",
+    "Meaning": "차 · 자동차"
+  },
+  {
+    "Frequency": "336",
+    "Expression": "利用",
+    "Furigana": "りよう",
+    "Meaning": "이용 · 활용"
+  },
+  {
+    "Frequency": "337",
+    "Expression": "熱",
+    "Furigana": "ねつ",
+    "Meaning": "열 · 더위"
+  },
+  {
+    "Frequency": "338",
+    "Expression": "最高",
+    "Furigana": "さいこう",
+    "Meaning": "최고 · 가장 높음"
+  },
+  {
+    "Frequency": "339",
+    "Expression": "満足",
+    "Furigana": "まんぞく",
+    "Meaning": "만족 · 흡족"
+  },
+  {
+    "Frequency": "340",
+    "Expression": "無視",
+    "Furigana": "むし",
+    "Meaning": "무시 · 묵살"
+  },
+  {
+    "Frequency": "341",
+    "Expression": "成功",
+    "Furigana": "せいこう",
+    "Meaning": "성공"
+  },
+  {
+    "Frequency": "342",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "343",
+    "Expression": "限り",
+    "Furigana": "かぎり",
+    "Meaning": "한도 · 한계"
+  },
+  {
+    "Frequency": "344",
+    "Expression": "父親",
+    "Furigana": "ちちおや",
+    "Meaning": "아버지 · 부친"
+  },
+  {
+    "Frequency": "345",
+    "Expression": "雨",
+    "Furigana": "あめ",
+    "Meaning": "비"
+  },
+  {
+    "Frequency": "346",
+    "Expression": "写真",
+    "Furigana": "しゃしん",
+    "Meaning": "사진"
+  },
+  {
+    "Frequency": "347",
+    "Expression": "火",
+    "Furigana": "ひ",
+    "Meaning": "불 · 화"
+  },
+  {
+    "Frequency": "348",
+    "Expression": "否定",
+    "Furigana": "ひてい",
+    "Meaning": "부정 · 부인"
+  },
+  {
+    "Frequency": "349",
+    "Expression": "面倒",
+    "Furigana": "めんどう",
+    "Meaning": "귀찮음 · 성가심"
+  },
+  {
+    "Frequency": "350",
+    "Expression": "人たち",
+    "Furigana": "ひと",
+    "Meaning": "사람들"
+  },
+  {
+    "Frequency": "351",
+    "Expression": "参加",
+    "Furigana": "さんか",
+    "Meaning": "참가 · 참여"
+  },
+  {
+    "Frequency": "352",
+    "Expression": "裏",
+    "Furigana": "うら",
+    "Meaning": "뒤 · 이면 · 속"
+  },
+  {
+    "Frequency": "353",
+    "Expression": "機会",
+    "Furigana": "きかい",
+    "Meaning": "기회 · 찬스"
+  },
+  {
+    "Frequency": "354",
+    "Expression": "大人",
+    "Furigana": "おとな",
+    "Meaning": "어른 · 성인"
+  },
+  {
+    "Frequency": "355",
+    "Expression": "すぎ",
+    "Furigana": "すぎ",
+    "Meaning": "지나침 · 과도함"
+  },
+  {
+    "Frequency": "356",
+    "Expression": "味",
+    "Furigana": "あじ",
+    "Meaning": "맛 · 풍미"
+  },
+  {
+    "Frequency": "357",
+    "Expression": "秘密",
+    "Furigana": "ひみつ",
+    "Meaning": "비밀"
+  },
+  {
+    "Frequency": "358",
+    "Expression": "部",
+    "Furigana": "ぶ",
+    "Meaning": "부서 · 부분 · 클럽"
+  },
+  {
+    "Frequency": "359",
+    "Expression": "例",
+    "Furigana": "れい",
+    "Meaning": "예 · 보기 · 실례"
+  },
+  {
+    "Frequency": "360",
+    "Expression": "川",
+    "Furigana": "かわ",
+    "Meaning": "강 · 내"
+  },
+  {
+    "Frequency": "361",
+    "Expression": "そのもの",
+    "Furigana": "",
+    "Meaning": "그 자체 · 그것 자체"
+  },
+  {
+    "Frequency": "362",
+    "Expression": "地",
+    "Furigana": "ち",
+    "Meaning": "땅 · 토지 · 지면"
+  },
+  {
+    "Frequency": "363",
+    "Expression": "位置",
+    "Furigana": "いち",
+    "Meaning": "위치 · 자리"
+  },
+  {
+    "Frequency": "364",
+    "Expression": "方向",
+    "Furigana": "ほうこう",
+    "Meaning": "방향 · 방위"
+  },
+  {
+    "Frequency": "365",
+    "Expression": "一部",
+    "Furigana": "いちぶ",
+    "Meaning": "일부 · 한 부분"
+  },
+  {
+    "Frequency": "366",
+    "Expression": "客",
+    "Furigana": "きゃく",
+    "Meaning": "손님 · 고객"
+  },
+  {
+    "Frequency": "367",
+    "Expression": "調子",
+    "Furigana": "ちょうし",
+    "Meaning": "상태 · 구조 · 조자 · 기분"
+  },
+  {
+    "Frequency": "368",
+    "Expression": "新た",
+    "Furigana": "あらた",
+    "Meaning": "새로운 · 신선한"
+  },
+  {
+    "Frequency": "369",
+    "Expression": "平気",
+    "Furigana": "へいき",
+    "Meaning": "괜찮음 · 태연함"
+  },
+  {
+    "Frequency": "370",
+    "Expression": "腹",
+    "Furigana": "はら",
+    "Meaning": "배 · 복부"
+  },
+  {
+    "Frequency": "371",
+    "Expression": "実際",
+    "Furigana": "じっさい",
+    "Meaning": "실제 · 실제로"
+  },
+  {
+    "Frequency": "372",
+    "Expression": "皆さん",
+    "Furigana": "みなさん",
+    "Meaning": "여러분 · 모두"
+  },
+  {
+    "Frequency": "373",
+    "Expression": "第一",
+    "Furigana": "だいいち",
+    "Meaning": "제일 · 첫째"
+  },
+  {
+    "Frequency": "374",
+    "Expression": "友人",
+    "Furigana": "ともだち",
+    "Meaning": "친구"
+  },
+  {
+    "Frequency": "375",
+    "Expression": "練習",
+    "Furigana": "れんしゅう",
+    "Meaning": "연습"
+  },
+  {
+    "Frequency": "376",
+    "Expression": "右",
+    "Furigana": "みぎ",
+    "Meaning": "오른쪽 · 우측"
+  },
+  {
+    "Frequency": "377",
+    "Expression": "性格",
+    "Furigana": "せいかく",
+    "Meaning": "성격 · 성질"
+  },
+  {
+    "Frequency": "378",
+    "Expression": "遠く",
+    "Furigana": "とおく",
+    "Meaning": "멀리 · 먼 곳"
+  },
+  {
+    "Frequency": "379",
+    "Expression": "今後",
+    "Furigana": "こんご",
+    "Meaning": "앞으로 · 금후 · 이후"
+  },
+  {
+    "Frequency": "380",
+    "Expression": "発見",
+    "Furigana": "はっけん",
+    "Meaning": "발견 · 발굴"
+  },
+  {
+    "Frequency": "381",
+    "Expression": "希望",
+    "Furigana": "きぼう",
+    "Meaning": "희망 · 바람"
+  },
+  {
+    "Frequency": "382",
+    "Expression": "集中",
+    "Furigana": "しゅうちゅう",
+    "Meaning": "집중"
+  },
+  {
+    "Frequency": "383",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "384",
+    "Expression": "効果",
+    "Furigana": "こうか",
+    "Meaning": "효과 · 효험"
+  },
+  {
+    "Frequency": "385",
+    "Expression": "意見",
+    "Furigana": "いけん",
+    "Meaning": "의견 · 생각"
+  },
+  {
+    "Frequency": "386",
+    "Expression": "何より",
+    "Furigana": "なにより",
+    "Meaning": "무엇보다 · 그 무엇보다도"
+  },
+  {
+    "Frequency": "387",
+    "Expression": "息子",
+    "Furigana": "むすこ",
+    "Meaning": "아들"
+  },
+  {
+    "Frequency": "388",
+    "Expression": "証拠",
+    "Furigana": "しょうこ",
+    "Meaning": "증거 · 증빙"
+  },
+  {
+    "Frequency": "389",
+    "Expression": "一日",
+    "Furigana": "いちにち",
+    "Meaning": "하루 · 일일"
+  },
+  {
+    "Frequency": "390",
+    "Expression": "月",
+    "Furigana": "つき",
+    "Meaning": "달 · 월"
+  },
+  {
+    "Frequency": "391",
+    "Expression": "遠慮",
+    "Furigana": "えんりょ",
+    "Meaning": "사양 · 주저 · 거리낌"
+  },
+  {
+    "Frequency": "392",
+    "Expression": "暇",
+    "Furigana": "ひま",
+    "Meaning": "한가함 · 시간적 여유"
+  },
+  {
+    "Frequency": "393",
+    "Expression": "相当",
+    "Furigana": "そうとう",
+    "Meaning": "상당 · 꽤"
+  },
+  {
+    "Frequency": "394",
+    "Expression": "影響",
+    "Furigana": "えいきょう",
+    "Meaning": "영향"
+  },
+  {
+    "Frequency": "395",
+    "Expression": "なし",
+    "Furigana": "",
+    "Meaning": "없음"
+  },
+  {
+    "Frequency": "396",
+    "Expression": "建物",
+    "Furigana": "たてもの",
+    "Meaning": "건물"
+  },
+  {
+    "Frequency": "397",
+    "Expression": "重要",
+    "Furigana": "じゅうよう",
+    "Meaning": "중요 · 중대"
+  },
+  {
+    "Frequency": "398",
+    "Expression": "数",
+    "Furigana": "かず",
+    "Meaning": "수 · 숫자"
+  },
+  {
+    "Frequency": "399",
+    "Expression": "後悔",
+    "Furigana": "こうかい",
+    "Meaning": "후회"
+  },
+  {
+    "Frequency": "400",
+    "Expression": "紹介",
+    "Furigana": "しょうかい",
+    "Meaning": "소개 · 안내"
+  },
+  {
+    "Frequency": "401",
+    "Expression": "疑問",
+    "Furigana": "ぎもん",
+    "Meaning": "의문 · 의심"
+  },
+  {
+    "Frequency": "402",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "403",
+    "Expression": "楽",
+    "Furigana": "らく",
+    "Meaning": "즐거움 · 편함"
+  },
+  {
+    "Frequency": "404",
+    "Expression": "予想",
+    "Furigana": "よそう",
+    "Meaning": "예상 · 예측"
+  },
+  {
+    "Frequency": "405",
+    "Expression": "努力",
+    "Furigana": "どりょく",
+    "Meaning": "노력"
+  },
+  {
+    "Frequency": "406",
+    "Expression": "円",
+    "Furigana": "えん",
+    "Meaning": "원 · 엔"
+  },
+  {
+    "Frequency": "407",
+    "Expression": "一方",
+    "Furigana": "いっぽう",
+    "Meaning": "한편 · 한쪽 · 일방"
+  },
+  {
+    "Frequency": "408",
+    "Expression": "確実",
+    "Furigana": "かくじつ",
+    "Meaning": "확실 · 틀림없음"
+  },
+  {
+    "Frequency": "409",
+    "Expression": "当時",
+    "Furigana": "とうじ",
+    "Meaning": "당시 · 그 당시"
+  },
+  {
+    "Frequency": "410",
+    "Expression": "妻",
+    "Furigana": "つま",
+    "Meaning": "아내 · 처"
+  },
+  {
+    "Frequency": "411",
+    "Expression": "流れ",
+    "Furigana": "ながれ",
+    "Meaning": "흐름 · 경향 · 추세"
+  },
+  {
+    "Frequency": "412",
+    "Expression": "責任",
+    "Furigana": "せきにん",
+    "Meaning": "책임"
+  },
+  {
+    "Frequency": "413",
+    "Expression": "偶然",
+    "Furigana": "ぐうぜん",
+    "Meaning": "우연 · 우연히"
+  },
+  {
+    "Frequency": "414",
+    "Expression": "作業",
+    "Furigana": "さぎょう",
+    "Meaning": "작업 · 일"
+  },
+  {
+    "Frequency": "415",
+    "Expression": "運命",
+    "Furigana": "うんめい",
+    "Meaning": "운명 · 숙명"
+  },
+  {
+    "Frequency": "416",
+    "Expression": "可能",
+    "Furigana": "かのう",
+    "Meaning": "가능 · 가능성"
+  },
+  {
+    "Frequency": "417",
+    "Expression": "非常",
+    "Furigana": "ひじょう",
+    "Meaning": "비상 · 매우"
+  },
+  {
+    "Frequency": "418",
+    "Expression": "一歩",
+    "Furigana": "いっぽ",
+    "Meaning": "한 걸음 · 첫걸음"
+  },
+  {
+    "Frequency": "419",
+    "Expression": "お話",
+    "Furigana": "はなし",
+    "Meaning": "이야기 · 말씀 · 대화"
+  },
+  {
+    "Frequency": "420",
+    "Expression": "得意",
+    "Furigana": "とくい",
+    "Meaning": "특기 · 잘하는 것"
+  },
+  {
+    "Frequency": "421",
+    "Expression": "成長",
+    "Furigana": "せいちょう",
+    "Meaning": "성장 · 자람"
+  },
+  {
+    "Frequency": "422",
+    "Expression": "きり",
+    "Furigana": "きり",
+    "Meaning": "끝 · 한계 · 정도"
+  },
+  {
+    "Frequency": "423",
+    "Expression": "本来",
+    "Furigana": "ほんらい",
+    "Meaning": "본래 · 원래"
+  },
+  {
+    "Frequency": "424",
+    "Expression": "注意",
+    "Furigana": "ちゅうい",
+    "Meaning": "주의 · 조심"
+  },
+  {
+    "Frequency": "425",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "426",
+    "Expression": "計画",
+    "Furigana": "けいかく",
+    "Meaning": "계획 · 계획하다"
+  },
+  {
+    "Frequency": "427",
+    "Expression": "役",
+    "Furigana": "やく",
+    "Meaning": "역할 · 임무 · 직무"
+  },
+  {
+    "Frequency": "428",
+    "Expression": "その日",
+    "Furigana": "",
+    "Meaning": "그날"
+  },
+  {
+    "Frequency": "429",
+    "Expression": "解決",
+    "Furigana": "かいけつ",
+    "Meaning": "해결 · 해소"
+  },
+  {
+    "Frequency": "430",
+    "Expression": "混乱",
+    "Furigana": "こんらん",
+    "Meaning": "혼란 · 혼잡"
+  },
+  {
+    "Frequency": "431",
+    "Expression": "案内",
+    "Furigana": "あんない",
+    "Meaning": "안내 · 소개"
+  },
+  {
+    "Frequency": "432",
+    "Expression": "罪",
+    "Furigana": "つみ",
+    "Meaning": "죄 · 죄악"
+  },
+  {
+    "Frequency": "433",
+    "Expression": "事態",
+    "Furigana": "じたい",
+    "Meaning": "사태 · 상황"
+  },
+  {
+    "Frequency": "434",
+    "Expression": "行為",
+    "Furigana": "こうい",
+    "Meaning": "행위 · 행동"
+  },
+  {
+    "Frequency": "435",
+    "Expression": "中心",
+    "Furigana": "ちゅうしん",
+    "Meaning": "중심 · 중앙"
+  },
+  {
+    "Frequency": "436",
+    "Expression": "条件",
+    "Furigana": "じょうけん",
+    "Meaning": "조건"
+  },
+  {
+    "Frequency": "437",
+    "Expression": "屋",
+    "Furigana": "や",
+    "Meaning": "집 · 가게 · 점포"
+  },
+  {
+    "Frequency": "438",
+    "Expression": "型",
+    "Furigana": "かた",
+    "Meaning": "형태 · 모형 · 틀"
+  },
+  {
+    "Frequency": "439",
+    "Expression": "左",
+    "Furigana": "ひだり",
+    "Meaning": "왼쪽 · 좌측"
+  },
+  {
+    "Frequency": "440",
+    "Expression": "展開",
+    "Furigana": "てんかい",
+    "Meaning": "전개 · 발전 · 펼침"
+  },
+  {
+    "Frequency": "441",
+    "Expression": "残り",
+    "Furigana": "のこり",
+    "Meaning": "나머지 · 남은 것"
+  },
+  {
+    "Frequency": "442",
+    "Expression": "量",
+    "Furigana": "りょう",
+    "Meaning": "양 · 분량 · 용량"
+  },
+  {
+    "Frequency": "443",
+    "Expression": "一切",
+    "Furigana": "いっさい",
+    "Meaning": "모든 것 · 전부"
+  },
+  {
+    "Frequency": "444",
+    "Expression": "迷惑",
+    "Furigana": "めいわく",
+    "Meaning": "폐 · 귀찮음 · 성가심"
+  },
+  {
+    "Frequency": "445",
+    "Expression": "楽しみ",
+    "Furigana": "たのしみ",
+    "Meaning": "즐거움 · 기쁨"
+  },
+  {
+    "Frequency": "446",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "447",
+    "Expression": "日々",
+    "Furigana": "ひび",
+    "Meaning": "나날 · 매일"
+  },
+  {
+    "Frequency": "448",
+    "Expression": "間違い",
+    "Furigana": "まちがい",
+    "Meaning": "실수 · 잘못"
+  },
+  {
+    "Frequency": "449",
+    "Expression": "その人",
+    "Furigana": "",
+    "Meaning": "그 사람"
+  },
+  {
+    "Frequency": "450",
+    "Expression": "間",
+    "Furigana": "あいだ",
+    "Meaning": "사이 · 동안 · 틈"
+  },
+  {
+    "Frequency": "451",
+    "Expression": "苦労",
+    "Furigana": "くろう",
+    "Meaning": "고생 · 고통 · 괴로움"
+  },
+  {
+    "Frequency": "452",
+    "Expression": "ごと",
+    "Furigana": "ごと",
+    "Meaning": "마다 · 모두 · 전부"
+  },
+  {
+    "Frequency": "453",
+    "Expression": "信用",
+    "Furigana": "しんよう",
+    "Meaning": "신용 · 신뢰"
+  },
+  {
+    "Frequency": "454",
+    "Expression": "唯一",
+    "Furigana": "ゆいいつ",
+    "Meaning": "유일 · 하나뿐임"
+  },
+  {
+    "Frequency": "455",
+    "Expression": "到着",
+    "Furigana": "とうちゃく",
+    "Meaning": "도착"
+  },
+  {
+    "Frequency": "456",
+    "Expression": "面",
+    "Furigana": "めん",
+    "Meaning": "면 · 표면 · 양상"
+  },
+  {
+    "Frequency": "457",
+    "Expression": "差",
+    "Furigana": "さ",
+    "Meaning": "차이 · 격차"
+  },
+  {
+    "Frequency": "458",
+    "Expression": "価値",
+    "Furigana": "かち",
+    "Meaning": "가치 · 값어치"
+  },
+  {
+    "Frequency": "459",
+    "Expression": "対応",
+    "Furigana": "たいおう",
+    "Meaning": "대응 · 대처"
+  },
+  {
+    "Frequency": "460",
+    "Expression": "額",
+    "Furigana": "がく",
+    "Meaning": "액수 · 금액"
+  },
+  {
+    "Frequency": "461",
+    "Expression": "有名",
+    "Furigana": "ゆうめい",
+    "Meaning": "유명 · 이름난"
+  },
+  {
+    "Frequency": "462",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "463",
+    "Expression": "安全",
+    "Furigana": "あんぜん",
+    "Meaning": "안전"
+  },
+  {
+    "Frequency": "464",
+    "Expression": "反対",
+    "Furigana": "はんたい",
+    "Meaning": "반대 · 대립"
+  },
+  {
+    "Frequency": "465",
+    "Expression": "午後",
+    "Furigana": "ごご",
+    "Meaning": "오후"
+  },
+  {
+    "Frequency": "466",
+    "Expression": "活動",
+    "Furigana": "かつどう",
+    "Meaning": "활동 · 움직임"
+  },
+  {
+    "Frequency": "467",
+    "Expression": "時期",
+    "Furigana": "じき",
+    "Meaning": "시기 · 때"
+  },
+  {
+    "Frequency": "468",
+    "Expression": "際",
+    "Furigana": "さい",
+    "Meaning": "때 · 경우"
+  },
+  {
+    "Frequency": "469",
+    "Expression": "正確",
+    "Furigana": "せいかく",
+    "Meaning": "정확 · 정확한"
+  },
+  {
+    "Frequency": "470",
+    "Expression": "以来",
+    "Furigana": "いらい",
+    "Meaning": "이래 · ~한 이후"
+  },
+  {
+    "Frequency": "471",
+    "Expression": "完成",
+    "Furigana": "かんせい",
+    "Meaning": "완성 · 완료"
+  },
+  {
+    "Frequency": "472",
+    "Expression": "なり",
+    "Furigana": "",
+    "Meaning": "되다 · 이다"
+  },
+  {
+    "Frequency": "473",
+    "Expression": "一生",
+    "Furigana": "いっしょう",
+    "Meaning": "일생 · 평생"
+  },
+  {
+    "Frequency": "474",
+    "Expression": "信頼",
+    "Furigana": "しんらい",
+    "Meaning": "신뢰 · 신용"
+  },
+  {
+    "Frequency": "475",
+    "Expression": "不満",
+    "Furigana": "ふまん",
+    "Meaning": "불만 · 불평"
+  },
+  {
+    "Frequency": "476",
+    "Expression": "全体",
+    "Furigana": "ぜんたい",
+    "Meaning": "전체"
+  },
+  {
+    "Frequency": "477",
+    "Expression": "病気",
+    "Furigana": "びょうき",
+    "Meaning": "병 · 질병"
+  },
+  {
+    "Frequency": "478",
+    "Expression": "複雑",
+    "Furigana": "ふくざつ",
+    "Meaning": "복잡"
+  },
+  {
+    "Frequency": "479",
+    "Expression": "代",
+    "Furigana": "だい",
+    "Meaning": "세대 · 대신 · 값"
+  },
+  {
+    "Frequency": "480",
+    "Expression": "違い",
+    "Furigana": "ちがい",
+    "Meaning": "차이 · 다름"
+  },
+  {
+    "Frequency": "481",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "482",
+    "Expression": "対象",
+    "Furigana": "たいしょう",
+    "Meaning": "대상 · 목표"
+  },
+  {
+    "Frequency": "483",
+    "Expression": "度",
+    "Furigana": "ど",
+    "Meaning": "도 · 정도 · 회"
+  },
+  {
+    "Frequency": "484",
+    "Expression": "世の中",
+    "Furigana": "よのなか",
+    "Meaning": "세상 · 세상일"
+  },
+  {
+    "Frequency": "485",
+    "Expression": "最大",
+    "Furigana": "さいだい",
+    "Meaning": "최대 · 가장 큰"
+  },
+  {
+    "Frequency": "486",
+    "Expression": "人気",
+    "Furigana": "にんき",
+    "Meaning": "인기 · 인망"
+  },
+  {
+    "Frequency": "487",
+    "Expression": "将来",
+    "Furigana": "しょうらい",
+    "Meaning": "장래 · 미래"
+  },
+  {
+    "Frequency": "488",
+    "Expression": "種類",
+    "Furigana": "しゅるい",
+    "Meaning": "종류"
+  },
+  {
+    "Frequency": "489",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "490",
+    "Expression": "決定",
+    "Furigana": "けってい",
+    "Meaning": "결정 · 결단"
+  },
+  {
+    "Frequency": "491",
+    "Expression": "年",
+    "Furigana": "とし",
+    "Meaning": "해 · 나이 · 연도"
+  },
+  {
+    "Frequency": "492",
+    "Expression": "視線",
+    "Furigana": "しせん",
+    "Meaning": "시선"
+  },
+  {
+    "Frequency": "493",
+    "Expression": "ダメ",
+    "Furigana": "",
+    "Meaning": "안 됨 · 불가능 · 소용없음"
+  },
+  {
+    "Frequency": "494",
+    "Expression": "全て",
+    "Furigana": "すべて",
+    "Meaning": "전부 · 모두"
+  },
+  {
+    "Frequency": "495",
+    "Expression": "少女",
+    "Furigana": "しょうじょ",
+    "Meaning": "소녀"
+  },
+  {
+    "Frequency": "496",
+    "Expression": "扉",
+    "Furigana": "とびら",
+    "Meaning": "문 · 문짝"
+  },
+  {
+    "Frequency": "497",
+    "Expression": "俺たち",
+    "Furigana": "おれたち",
+    "Meaning": "우리들 · 우리"
+  },
+  {
+    "Frequency": "498",
+    "Expression": "瞳",
+    "Furigana": "ひとみ",
+    "Meaning": "눈동자 · 동공"
+  },
+  {
+    "Frequency": "499",
+    "Expression": "先輩",
+    "Furigana": "せんぱい",
+    "Meaning": "선배"
+  },
+  {
+    "Frequency": "500",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "501",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "502",
+    "Expression": "街",
+    "Furigana": "まち",
+    "Meaning": "거리 · 시가지"
+  },
+  {
+    "Frequency": "503",
+    "Expression": "攻撃",
+    "Furigana": "こうげき",
+    "Meaning": "공격 · 공세"
+  },
+  {
+    "Frequency": "504",
+    "Expression": "妹",
+    "Furigana": "いもうと",
+    "Meaning": "여동생"
+  },
+  {
+    "Frequency": "505",
+    "Expression": "唇",
+    "Furigana": "くちびる",
+    "Meaning": "입술"
+  },
+  {
+    "Frequency": "506",
+    "Expression": "両手",
+    "Furigana": "りょうて",
+    "Meaning": "양손 · 두 손"
+  },
+  {
+    "Frequency": "507",
+    "Expression": "身体",
+    "Furigana": "からだ",
+    "Meaning": "몸 · 신체"
+  },
+  {
+    "Frequency": "508",
+    "Expression": "三人",
+    "Furigana": "さんにん",
+    "Meaning": "세 사람 · 셋"
+  },
+  {
+    "Frequency": "509",
+    "Expression": "お母さん",
+    "Furigana": "おかあさん",
+    "Meaning": "어머니 · 엄마"
+  },
+  {
+    "Frequency": "510",
+    "Expression": "床",
+    "Furigana": "ゆか",
+    "Meaning": "마루 · 바닥"
+  },
+  {
+    "Frequency": "511",
+    "Expression": "少年",
+    "Furigana": "しょうねん",
+    "Meaning": "소년"
+  },
+  {
+    "Frequency": "512",
+    "Expression": "森",
+    "Furigana": "もり",
+    "Meaning": "숲 · 수풀"
+  },
+  {
+    "Frequency": "513",
+    "Expression": "笑み",
+    "Furigana": "えみ",
+    "Meaning": "미소 · 웃음"
+  },
+  {
+    "Frequency": "514",
+    "Expression": "バカ",
+    "Furigana": "",
+    "Meaning": "바보 · 멍청이"
+  },
+  {
+    "Frequency": "515",
+    "Expression": "肉",
+    "Furigana": "にく",
+    "Meaning": "고기 · 살"
+  },
+  {
+    "Frequency": "516",
+    "Expression": "地面",
+    "Furigana": "じめん",
+    "Meaning": "지면 · 땅바닥"
+  },
+  {
+    "Frequency": "517",
+    "Expression": "お父さん",
+    "Furigana": "おとうさん",
+    "Meaning": "아버지"
+  },
+  {
+    "Frequency": "518",
+    "Expression": "全身",
+    "Furigana": "ぜんしん",
+    "Meaning": "전신 · 온몸"
+  },
+  {
+    "Frequency": "519",
+    "Expression": "連中",
+    "Furigana": "れんちゅう",
+    "Meaning": "무리 · 패거리 · 일당"
+  },
+  {
+    "Frequency": "520",
+    "Expression": "戦い",
+    "Furigana": "たたかい",
+    "Meaning": "전쟁 · 싸움 · 전투"
+  },
+  {
+    "Frequency": "521",
+    "Expression": "気配",
+    "Furigana": "けはい",
+    "Meaning": "기미 · 낌새 · 분위기"
+  },
+  {
+    "Frequency": "522",
+    "Expression": "廊下",
+    "Furigana": "ろうか",
+    "Meaning": "복도 · 통로"
+  },
+  {
+    "Frequency": "523",
+    "Expression": "影",
+    "Furigana": "かげ",
+    "Meaning": "그림자 · 그늘"
+  },
+  {
+    "Frequency": "524",
+    "Expression": "色々",
+    "Furigana": "いろいろ",
+    "Meaning": "여러 가지 · 가지가지"
+  },
+  {
+    "Frequency": "525",
+    "Expression": "噂",
+    "Furigana": "うわさ",
+    "Meaning": "소문 · 풍문"
+  },
+  {
+    "Frequency": "526",
+    "Expression": "兄",
+    "Furigana": "あに",
+    "Meaning": "오빠 · 형"
+  },
+  {
+    "Frequency": "527",
+    "Expression": "怒り",
+    "Furigana": "いかり",
+    "Meaning": "분노 · 화 · 성냄"
+  },
+  {
+    "Frequency": "528",
+    "Expression": "嘘",
+    "Furigana": "うそ",
+    "Meaning": "거짓말 · 허위"
+  },
+  {
+    "Frequency": "529",
+    "Expression": "生徒",
+    "Furigana": "せいと",
+    "Meaning": "학생 · 제자"
+  },
+  {
+    "Frequency": "530",
+    "Expression": "傷",
+    "Furigana": "きず",
+    "Meaning": "상처 · 부상 · 손상"
+  },
+  {
+    "Frequency": "531",
+    "Expression": "痛み",
+    "Furigana": "いたみ",
+    "Meaning": "아픔 · 통증"
+  },
+  {
+    "Frequency": "532",
+    "Expression": "背後",
+    "Furigana": "はいご",
+    "Meaning": "뒤 · 배후"
+  },
+  {
+    "Frequency": "533",
+    "Expression": "闇",
+    "Furigana": "やみ",
+    "Meaning": "어둠 · 암흑"
+  },
+  {
+    "Frequency": "534",
+    "Expression": "普段",
+    "Furigana": "ふだん",
+    "Meaning": "평소 · 보통"
+  },
+  {
+    "Frequency": "535",
+    "Expression": "手紙",
+    "Furigana": "てがみ",
+    "Meaning": "편지"
+  },
+  {
+    "Frequency": "536",
+    "Expression": "電話",
+    "Furigana": "でんわ",
+    "Meaning": "전화"
+  },
+  {
+    "Frequency": "537",
+    "Expression": "挨拶",
+    "Furigana": "あいさつ",
+    "Meaning": "인사 · 인사말"
+  },
+  {
+    "Frequency": "538",
+    "Expression": "無駄",
+    "Furigana": "むだ",
+    "Meaning": "헛됨 · 쓸데없음"
+  },
+  {
+    "Frequency": "539",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "540",
+    "Expression": "村",
+    "Furigana": "むら",
+    "Meaning": "마을 · 촌"
+  },
+  {
+    "Frequency": "541",
+    "Expression": "駄目",
+    "Furigana": "だめ",
+    "Meaning": "안 됨 · 쓸모없음"
+  },
+  {
+    "Frequency": "542",
+    "Expression": "巨大",
+    "Furigana": "きょだい",
+    "Meaning": "거대 · 거대한"
+  },
+  {
+    "Frequency": "543",
+    "Expression": "光景",
+    "Furigana": "こうけい",
+    "Meaning": "광경 · 경치"
+  },
+  {
+    "Frequency": "544",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "545",
+    "Expression": "石",
+    "Furigana": "いし",
+    "Meaning": "돌 · 바위"
+  },
+  {
+    "Frequency": "546",
+    "Expression": "肌",
+    "Furigana": "はだ",
+    "Meaning": "살결 · 피부"
+  },
+  {
+    "Frequency": "547",
+    "Expression": "武器",
+    "Furigana": "ぶき",
+    "Meaning": "무기"
+  },
+  {
+    "Frequency": "548",
+    "Expression": "椅子",
+    "Furigana": "いす",
+    "Meaning": "의자"
+  },
+  {
+    "Frequency": "549",
+    "Expression": "恐怖",
+    "Furigana": "きょうふ",
+    "Meaning": "공포 · 두려움"
+  },
+  {
+    "Frequency": "550",
+    "Expression": "命令",
+    "Furigana": "めいれい",
+    "Meaning": "명령 · 지시"
+  },
+  {
+    "Frequency": "551",
+    "Expression": "マジ",
+    "Furigana": "",
+    "Meaning": "진짜 · 정말"
+  },
+  {
+    "Frequency": "552",
+    "Expression": "匂い",
+    "Furigana": "におい",
+    "Meaning": "냄새 · 향기"
+  },
+  {
+    "Frequency": "553",
+    "Expression": "格好",
+    "Furigana": "かっこう",
+    "Meaning": "모양 · 차림새 · 형편"
+  },
+  {
+    "Frequency": "554",
+    "Expression": "頬",
+    "Furigana": "ほお",
+    "Meaning": "뺨 · 볼"
+  },
+  {
+    "Frequency": "555",
+    "Expression": "犬",
+    "Furigana": "いぬ",
+    "Meaning": "개"
+  },
+  {
+    "Frequency": "556",
+    "Expression": "階段",
+    "Furigana": "かいだん",
+    "Meaning": "계단"
+  },
+  {
+    "Frequency": "557",
+    "Expression": "机",
+    "Furigana": "つくえ",
+    "Meaning": "책상 · 테이블"
+  },
+  {
+    "Frequency": "558",
+    "Expression": "先ほど",
+    "Furigana": "さきほど",
+    "Meaning": "조금 전 · 아까"
+  },
+  {
+    "Frequency": "559",
+    "Expression": "勝負",
+    "Furigana": "しょうぶ",
+    "Meaning": "승부 · 승패"
+  },
+  {
+    "Frequency": "560",
+    "Expression": "本物",
+    "Furigana": "ほんもの",
+    "Meaning": "진품 · 진짜"
+  },
+  {
+    "Frequency": "561",
+    "Expression": "真剣",
+    "Furigana": "しんけん",
+    "Meaning": "진지함 · 진심"
+  },
+  {
+    "Frequency": "562",
+    "Expression": "星",
+    "Furigana": "ほし",
+    "Meaning": "별"
+  },
+  {
+    "Frequency": "563",
+    "Expression": "教室",
+    "Furigana": "きょうしつ",
+    "Meaning": "교실"
+  },
+  {
+    "Frequency": "564",
+    "Expression": "あたり",
+    "Furigana": "あたり",
+    "Meaning": "부근 · 근처 · 주변"
+  },
+  {
+    "Frequency": "565",
+    "Expression": "口調",
+    "Furigana": "くちょう",
+    "Meaning": "말투 · 어조"
+  },
+  {
+    "Frequency": "566",
+    "Expression": "姉",
+    "Furigana": "あね",
+    "Meaning": "언니 · 누나"
+  },
+  {
+    "Frequency": "567",
+    "Expression": "体",
+    "Furigana": "からだ",
+    "Meaning": "몸 · 신체 · 육체"
+  },
+  {
+    "Frequency": "568",
+    "Expression": "視界",
+    "Furigana": "しかい",
+    "Meaning": "시계 · 시야"
+  },
+  {
+    "Frequency": "569",
+    "Expression": "限界",
+    "Furigana": "げんかい",
+    "Meaning": "한계 · 극한"
+  },
+  {
+    "Frequency": "570",
+    "Expression": "作戦",
+    "Furigana": "さくせん",
+    "Meaning": "작전 · 전략"
+  },
+  {
+    "Frequency": "571",
+    "Expression": "お互い",
+    "Furigana": "おたがい",
+    "Meaning": "서로 · 상호"
+  },
+  {
+    "Frequency": "572",
+    "Expression": "右手",
+    "Furigana": "みぎて",
+    "Meaning": "오른손 · 오른팔"
+  },
+  {
+    "Frequency": "573",
+    "Expression": "女子",
+    "Furigana": "じょし",
+    "Meaning": "여자 · 여성"
+  },
+  {
+    "Frequency": "574",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "575",
+    "Expression": "猫",
+    "Furigana": "ねこ",
+    "Meaning": "고양이"
+  },
+  {
+    "Frequency": "576",
+    "Expression": "馬鹿",
+    "Furigana": "ばか",
+    "Meaning": "바보 · 멍청이"
+  },
+  {
+    "Frequency": "577",
+    "Expression": "適当",
+    "Furigana": "てきとう",
+    "Meaning": "적당 · 알맞음"
+  },
+  {
+    "Frequency": "578",
+    "Expression": "そば",
+    "Furigana": "そば",
+    "Meaning": "메밀 · 옆"
+  },
+  {
+    "Frequency": "579",
+    "Expression": "一言",
+    "Furigana": "ひとこと",
+    "Meaning": "한마디 · 한 말씀"
+  },
+  {
+    "Frequency": "580",
+    "Expression": "心臓",
+    "Furigana": "しんぞう",
+    "Meaning": "심장"
+  },
+  {
+    "Frequency": "581",
+    "Expression": "酒",
+    "Furigana": "さけ",
+    "Meaning": "술 · 주류"
+  },
+  {
+    "Frequency": "582",
+    "Expression": "魂",
+    "Furigana": "たましい",
+    "Meaning": "영혼 · 넋"
+  },
+  {
+    "Frequency": "583",
+    "Expression": "空間",
+    "Furigana": "くうかん",
+    "Meaning": "공간"
+  },
+  {
+    "Frequency": "584",
+    "Expression": "真面目",
+    "Furigana": "まじめ",
+    "Meaning": "진지함 · 성실함"
+  },
+  {
+    "Frequency": "585",
+    "Expression": "お礼",
+    "Furigana": "れい",
+    "Meaning": "감사 · 사례"
+  },
+  {
+    "Frequency": "586",
+    "Expression": "薬",
+    "Furigana": "くすり",
+    "Meaning": "약 · 약물"
+  },
+  {
+    "Frequency": "587",
+    "Expression": "お茶",
+    "Furigana": "おちゃ",
+    "Meaning": "차 · 녹차"
+  },
+  {
+    "Frequency": "588",
+    "Expression": "味方",
+    "Furigana": "みかた",
+    "Meaning": "아군 · 지지자 · 편"
+  },
+  {
+    "Frequency": "589",
+    "Expression": "炎",
+    "Furigana": "ほのお",
+    "Meaning": "불 · 화염"
+  },
+  {
+    "Frequency": "590",
+    "Expression": "両親",
+    "Furigana": "りょうしん",
+    "Meaning": "부모 · 양친"
+  },
+  {
+    "Frequency": "591",
+    "Expression": "荷物",
+    "Furigana": "にもつ",
+    "Meaning": "짐 · 화물"
+  },
+  {
+    "Frequency": "592",
+    "Expression": "警戒",
+    "Furigana": "けいかい",
+    "Meaning": "경계 · 조심"
+  },
+  {
+    "Frequency": "593",
+    "Expression": "鍵",
+    "Furigana": "かぎ",
+    "Meaning": "열쇠 · 비결 · 관건"
+  },
+  {
+    "Frequency": "594",
+    "Expression": "膝",
+    "Furigana": "ひざ",
+    "Meaning": "무릎"
+  },
+  {
+    "Frequency": "595",
+    "Expression": "興奮",
+    "Furigana": "こうふん",
+    "Meaning": "흥분 · 들뜸"
+  },
+  {
+    "Frequency": "596",
+    "Expression": "弟",
+    "Furigana": "おとうと",
+    "Meaning": "남동생 · 아우"
+  },
+  {
+    "Frequency": "597",
+    "Expression": "指示",
+    "Furigana": "しじ",
+    "Meaning": "지시 · 가리키다"
+  },
+  {
+    "Frequency": "598",
+    "Expression": "十",
+    "Furigana": "",
+    "Meaning": "십 (열) · 10"
+  },
+  {
+    "Frequency": "599",
+    "Expression": "舌",
+    "Furigana": "した",
+    "Meaning": "혀"
+  },
+  {
+    "Frequency": "600",
+    "Expression": "穴",
+    "Furigana": "あな",
+    "Meaning": "구멍 · 굴"
+  },
+  {
+    "Frequency": "601",
+    "Expression": "勘違い",
+    "Furigana": "かんちがい",
+    "Meaning": "오해 · 착각"
+  },
+  {
+    "Frequency": "602",
+    "Expression": "警察",
+    "Furigana": "けいさつ",
+    "Meaning": "경찰"
+  },
+  {
+    "Frequency": "603",
+    "Expression": "冷静",
+    "Furigana": "れいせい",
+    "Meaning": "냉정 · 침착"
+  },
+  {
+    "Frequency": "604",
+    "Expression": "馬",
+    "Furigana": "うま",
+    "Meaning": "말"
+  },
+  {
+    "Frequency": "605",
+    "Expression": "衝撃",
+    "Furigana": "しょうげき",
+    "Meaning": "충격 · 충동"
+  },
+  {
+    "Frequency": "606",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "607",
+    "Expression": "多少",
+    "Furigana": "たしょう",
+    "Meaning": "다소 · 얼마간"
+  },
+  {
+    "Frequency": "608",
+    "Expression": "同士",
+    "Furigana": "どうし",
+    "Meaning": "동료 · 같은 처지의 사람"
+  },
+  {
+    "Frequency": "609",
+    "Expression": "恋人",
+    "Furigana": "こいびと",
+    "Meaning": "연인 · 애인"
+  },
+  {
+    "Frequency": "610",
+    "Expression": "病院",
+    "Furigana": "びょういん",
+    "Meaning": "병원"
+  },
+  {
+    "Frequency": "611",
+    "Expression": "汗",
+    "Furigana": "あせ",
+    "Meaning": "땀"
+  },
+  {
+    "Frequency": "612",
+    "Expression": "開始",
+    "Furigana": "かいし",
+    "Meaning": "개시 · 시작"
+  },
+  {
+    "Frequency": "613",
+    "Expression": "まとも",
+    "Furigana": "まとも",
+    "Meaning": "정직한 · 똑바른 · 제대로 된"
+  },
+  {
+    "Frequency": "614",
+    "Expression": "提案",
+    "Furigana": "ていあん",
+    "Meaning": "제안 · 제의"
+  },
+  {
+    "Frequency": "615",
+    "Expression": "一本",
+    "Furigana": "いっぽん",
+    "Meaning": "한 자루 · 한 병 · 한 개"
+  },
+  {
+    "Frequency": "616",
+    "Expression": "室",
+    "Furigana": "しつ",
+    "Meaning": "방 · 실"
+  },
+  {
+    "Frequency": "617",
+    "Expression": "真実",
+    "Furigana": "しんじつ",
+    "Meaning": "진실 · 사실"
+  },
+  {
+    "Frequency": "618",
+    "Expression": "研究",
+    "Furigana": "けんきゅう",
+    "Meaning": "연구"
+  },
+  {
+    "Frequency": "619",
+    "Expression": "背",
+    "Furigana": "せ",
+    "Meaning": "등 · 키"
+  },
+  {
+    "Frequency": "620",
+    "Expression": "扱い",
+    "Furigana": "あつかい",
+    "Meaning": "취급 · 다룸"
+  },
+  {
+    "Frequency": "621",
+    "Expression": "回復",
+    "Furigana": "かいふく",
+    "Meaning": "회복 · 복구"
+  },
+  {
+    "Frequency": "622",
+    "Expression": "知識",
+    "Furigana": "ちしき",
+    "Meaning": "지식"
+  },
+  {
+    "Frequency": "623",
+    "Expression": "恋",
+    "Furigana": "こい",
+    "Meaning": "사랑 · 연정"
+  },
+  {
+    "Frequency": "624",
+    "Expression": "抵抗",
+    "Furigana": "ていこう",
+    "Meaning": "저항 · 반항"
+  },
+  {
+    "Frequency": "625",
+    "Expression": "犯人",
+    "Furigana": "はんにん",
+    "Meaning": "범인 · 범죄자"
+  },
+  {
+    "Frequency": "626",
+    "Expression": "天",
+    "Furigana": "てん",
+    "Meaning": "하늘 · 천국"
+  },
+  {
+    "Frequency": "627",
+    "Expression": "文字",
+    "Furigana": "もじ",
+    "Meaning": "문자 · 글자"
+  },
+  {
+    "Frequency": "628",
+    "Expression": "苦手",
+    "Furigana": "にがて",
+    "Meaning": "서투름 · 불득의 · 질색"
+  },
+  {
+    "Frequency": "629",
+    "Expression": "解放",
+    "Furigana": "かいほう",
+    "Meaning": "해방 · 풀어놓음"
+  },
+  {
+    "Frequency": "630",
+    "Expression": "箱",
+    "Furigana": "はこ",
+    "Meaning": "상자 · 박스"
+  },
+  {
+    "Frequency": "631",
+    "Expression": "真っ赤",
+    "Furigana": "まっか",
+    "Meaning": "새빨간 · 완전히 빨간"
+  },
+  {
+    "Frequency": "632",
+    "Expression": "絵",
+    "Furigana": "え",
+    "Meaning": "그림 · 회화"
+  },
+  {
+    "Frequency": "633",
+    "Expression": "破壊",
+    "Furigana": "はかい",
+    "Meaning": "파괴 · 파멸"
+  },
+  {
+    "Frequency": "634",
+    "Expression": "今夜",
+    "Furigana": "こんや",
+    "Meaning": "오늘밤 · 이밤"
+  },
+  {
+    "Frequency": "635",
+    "Expression": "知り合い",
+    "Furigana": "しりあい",
+    "Meaning": "지인 · 아는 사람"
+  },
+  {
+    "Frequency": "636",
+    "Expression": "単純",
+    "Furigana": "たんじゅん",
+    "Meaning": "단순 · 간단"
+  },
+  {
+    "Frequency": "637",
+    "Expression": "船",
+    "Furigana": "ふね",
+    "Meaning": "배"
+  },
+  {
+    "Frequency": "638",
+    "Expression": "中身",
+    "Furigana": "なかみ",
+    "Meaning": "내용 · 속"
+  },
+  {
+    "Frequency": "639",
+    "Expression": "系",
+    "Furigana": "けい",
+    "Meaning": "계통 · 계열"
+  },
+  {
+    "Frequency": "640",
+    "Expression": "辺り",
+    "Furigana": "あたり",
+    "Meaning": "주변 · 근처 · 부근"
+  },
+  {
+    "Frequency": "641",
+    "Expression": "全力",
+    "Furigana": "ぜんりょく",
+    "Meaning": "전력 · 모든 힘"
+  },
+  {
+    "Frequency": "642",
+    "Expression": "無言",
+    "Furigana": "むごん",
+    "Meaning": "침묵 · 말없음"
+  },
+  {
+    "Frequency": "643",
+    "Expression": "門",
+    "Furigana": "もん",
+    "Meaning": "문 · 대문"
+  },
+  {
+    "Frequency": "644",
+    "Expression": "身体",
+    "Furigana": "からだ",
+    "Meaning": "몸 · 신체"
+  },
+  {
+    "Frequency": "645",
+    "Expression": "技術",
+    "Furigana": "ぎじゅつ",
+    "Meaning": "기술 · 테크닉"
+  },
+  {
+    "Frequency": "646",
+    "Expression": "大量",
+    "Furigana": "たいりょう",
+    "Meaning": "대량 · 많은 양"
+  },
+  {
+    "Frequency": "647",
+    "Expression": "沈黙",
+    "Furigana": "ちんもく",
+    "Meaning": "침묵 · 잠자코 있음"
+  },
+  {
+    "Frequency": "648",
+    "Expression": "感触",
+    "Furigana": "かんしょく",
+    "Meaning": "감촉 · 느낌 · 촉감"
+  },
+  {
+    "Frequency": "649",
+    "Expression": "思考",
+    "Furigana": "しこう",
+    "Meaning": "사고 · 생각"
+  },
+  {
+    "Frequency": "650",
+    "Expression": "島",
+    "Furigana": "しま",
+    "Meaning": "섬"
+  },
+  {
+    "Frequency": "651",
+    "Expression": "言い方",
+    "Furigana": "いいかた",
+    "Meaning": "말하는 방법 · 말투"
+  },
+  {
+    "Frequency": "652",
+    "Expression": "会社",
+    "Furigana": "かいしゃ",
+    "Meaning": "회사"
+  },
+  {
+    "Frequency": "653",
+    "Expression": "趣味",
+    "Furigana": "しゅみ",
+    "Meaning": "취미 · 기호"
+  },
+  {
+    "Frequency": "654",
+    "Expression": "主",
+    "Furigana": "ぬし",
+    "Meaning": "주인 · 주(主)"
+  },
+  {
+    "Frequency": "655",
+    "Expression": "紙",
+    "Furigana": "かみ",
+    "Meaning": "종이"
+  },
+  {
+    "Frequency": "656",
+    "Expression": "隙",
+    "Furigana": "すき",
+    "Meaning": "틈 · 빈틈 · 기회"
+  },
+  {
+    "Frequency": "657",
+    "Expression": "何者",
+    "Furigana": "なにもの",
+    "Meaning": "누구 · 어떤 사람"
+  },
+  {
+    "Frequency": "658",
+    "Expression": "異常",
+    "Furigana": "いじょう",
+    "Meaning": "이상 · 비정상"
+  },
+  {
+    "Frequency": "659",
+    "Expression": "中央",
+    "Furigana": "ちゅうおう",
+    "Meaning": "중앙 · 중심"
+  },
+  {
+    "Frequency": "660",
+    "Expression": "久しぶり",
+    "Furigana": "ひさしぶり",
+    "Meaning": "오랜만 · 오래간만"
+  },
+  {
+    "Frequency": "661",
+    "Expression": "正体",
+    "Furigana": "しょうたい",
+    "Meaning": "정체 · 본모습"
+  },
+  {
+    "Frequency": "662",
+    "Expression": "戦争",
+    "Furigana": "せんそう",
+    "Meaning": "전쟁"
+  },
+  {
+    "Frequency": "663",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "664",
+    "Expression": "左右",
+    "Furigana": "さゆう",
+    "Meaning": "좌우 · 양쪽 · 양측"
+  },
+  {
+    "Frequency": "665",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "666",
+    "Expression": "授業",
+    "Furigana": "じゅぎょう",
+    "Meaning": "수업"
+  },
+  {
+    "Frequency": "667",
+    "Expression": "式",
+    "Furigana": "しき",
+    "Meaning": "식 · 의식 · 예식"
+  },
+  {
+    "Frequency": "668",
+    "Expression": "不可能",
+    "Furigana": "ふかのう",
+    "Meaning": "불가능 · 가능하지 않음"
+  },
+  {
+    "Frequency": "669",
+    "Expression": "そんなもの",
+    "Furigana": "",
+    "Meaning": "그런 것 · 그따위"
+  },
+  {
+    "Frequency": "670",
+    "Expression": "天井",
+    "Furigana": "てんじょう",
+    "Meaning": "천장"
+  },
+  {
+    "Frequency": "671",
+    "Expression": "鳥",
+    "Furigana": "とり",
+    "Meaning": "새 · 조류"
+  },
+  {
+    "Frequency": "672",
+    "Expression": "男の子",
+    "Furigana": "おとこのこ",
+    "Meaning": "남자아이 · 사내아이"
+  },
+  {
+    "Frequency": "673",
+    "Expression": "雪",
+    "Furigana": "ゆき",
+    "Meaning": "눈"
+  },
+  {
+    "Frequency": "674",
+    "Expression": "確信",
+    "Furigana": "かくしん",
+    "Meaning": "확신"
+  },
+  {
+    "Frequency": "675",
+    "Expression": "この世",
+    "Furigana": "このよ",
+    "Meaning": "이세상 · 현세"
+  },
+  {
+    "Frequency": "676",
+    "Expression": "悲鳴",
+    "Furigana": "ひめい",
+    "Meaning": "비명 · 비탄의 소리"
+  },
+  {
+    "Frequency": "677",
+    "Expression": "話題",
+    "Furigana": "わだい",
+    "Meaning": "화제 · 이야깃거리"
+  },
+  {
+    "Frequency": "678",
+    "Expression": "認識",
+    "Furigana": "にんしき",
+    "Meaning": "인식 · 인지"
+  },
+  {
+    "Frequency": "679",
+    "Expression": "制服",
+    "Furigana": "せいふく",
+    "Meaning": "교복 · 제복"
+  },
+  {
+    "Frequency": "680",
+    "Expression": "驚き",
+    "Furigana": "おどろき",
+    "Meaning": "놀람 · 경악"
+  },
+  {
+    "Frequency": "681",
+    "Expression": "許可",
+    "Furigana": "きょか",
+    "Meaning": "허가 · 허락"
+  },
+  {
+    "Frequency": "682",
+    "Expression": "人形",
+    "Furigana": "にんぎょう",
+    "Meaning": "인형"
+  },
+  {
+    "Frequency": "683",
+    "Expression": "鼻",
+    "Furigana": "はな",
+    "Meaning": "코"
+  },
+  {
+    "Frequency": "684",
+    "Expression": "謎",
+    "Furigana": "なぞ",
+    "Meaning": "수수께끼 · 불가사의 · 알 수 없는 일"
+  },
+  {
+    "Frequency": "685",
+    "Expression": "その間",
+    "Furigana": "あいだ",
+    "Meaning": "그동안 · 그 사이"
+  },
+  {
+    "Frequency": "686",
+    "Expression": "二十",
+    "Furigana": "にじゅう",
+    "Meaning": "이십 · 스물"
+  },
+  {
+    "Frequency": "687",
+    "Expression": "了解",
+    "Furigana": "りょうかい",
+    "Meaning": "이해 · 파악"
+  },
+  {
+    "Frequency": "688",
+    "Expression": "発言",
+    "Furigana": "はつげん",
+    "Meaning": "발언 · 말함"
+  },
+  {
+    "Frequency": "689",
+    "Expression": "その手",
+    "Furigana": "",
+    "Meaning": "그 방법 · 그 수단"
+  },
+  {
+    "Frequency": "690",
+    "Expression": "手段",
+    "Furigana": "しゅだん",
+    "Meaning": "수단 · 방법"
+  },
+  {
+    "Frequency": "691",
+    "Expression": "最悪",
+    "Furigana": "さいあく",
+    "Meaning": "최악 · 가장 나쁨"
+  },
+  {
+    "Frequency": "692",
+    "Expression": "誤解",
+    "Furigana": "ごかい",
+    "Meaning": "오해 · 잘못 이해함"
+  },
+  {
+    "Frequency": "693",
+    "Expression": "訳",
+    "Furigana": "やく",
+    "Meaning": "번역 · 해석"
+  },
+  {
+    "Frequency": "694",
+    "Expression": "喉",
+    "Furigana": "のど",
+    "Meaning": "목구멍 · 목"
+  },
+  {
+    "Frequency": "695",
+    "Expression": "旅",
+    "Furigana": "たび",
+    "Meaning": "여행"
+  },
+  {
+    "Frequency": "696",
+    "Expression": "告白",
+    "Furigana": "こくはく",
+    "Meaning": "고백 · 고해"
+  },
+  {
+    "Frequency": "697",
+    "Expression": "見た目",
+    "Furigana": "みため",
+    "Meaning": "외모 · 겉모습"
+  },
+  {
+    "Frequency": "698",
+    "Expression": "呼吸",
+    "Furigana": "こきゅう",
+    "Meaning": "호흡 · 숨쉬기"
+  },
+  {
+    "Frequency": "699",
+    "Expression": "出来事",
+    "Furigana": "できごと",
+    "Meaning": "사건 · 일 · 일어난 일"
+  },
+  {
+    "Frequency": "700",
+    "Expression": "同様",
+    "Furigana": "どうよう",
+    "Meaning": "동일 · 마찬가지"
+  },
+  {
+    "Frequency": "701",
+    "Expression": "自覚",
+    "Furigana": "じかく",
+    "Meaning": "자각 · 스스로 깨달음"
+  },
+  {
+    "Frequency": "702",
+    "Expression": "爆発",
+    "Furigana": "ばくはつ",
+    "Meaning": "폭발 · 폭파"
+  },
+  {
+    "Frequency": "703",
+    "Expression": "動揺",
+    "Furigana": "どうよう",
+    "Meaning": "동요 · 흔들림 · 불안"
+  },
+  {
+    "Frequency": "704",
+    "Expression": "自体",
+    "Furigana": "じたい",
+    "Meaning": "자체 · 그 자체"
+  },
+  {
+    "Frequency": "705",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "706",
+    "Expression": "ぼんやり",
+    "Furigana": "ぼんやり",
+    "Meaning": "멍하게 · 흐릿하게"
+  },
+  {
+    "Frequency": "707",
+    "Expression": "精神",
+    "Furigana": "せいしん",
+    "Meaning": "정신 · 마음"
+  },
+  {
+    "Frequency": "708",
+    "Expression": "文句",
+    "Furigana": "もんく",
+    "Meaning": "불평 · 불만"
+  },
+  {
+    "Frequency": "709",
+    "Expression": "時点",
+    "Furigana": "じてん",
+    "Meaning": "시점 · 때"
+  },
+  {
+    "Frequency": "710",
+    "Expression": "発生",
+    "Furigana": "はっせい",
+    "Meaning": "발생 · 생김"
+  },
+  {
+    "Frequency": "711",
+    "Expression": "掃除",
+    "Furigana": "そうじ",
+    "Meaning": "청소"
+  },
+  {
+    "Frequency": "712",
+    "Expression": "二人とも",
+    "Furigana": "ふたり",
+    "Meaning": "둘 다 · 두 사람 다"
+  },
+  {
+    "Frequency": "713",
+    "Expression": "道具",
+    "Furigana": "どうぐ",
+    "Meaning": "도구 · 기구"
+  },
+  {
+    "Frequency": "714",
+    "Expression": "現場",
+    "Furigana": "げんば",
+    "Meaning": "현장 · 사건현장 · 작업현장"
+  },
+  {
+    "Frequency": "715",
+    "Expression": "歴史",
+    "Furigana": "れきし",
+    "Meaning": "역사"
+  },
+  {
+    "Frequency": "716",
+    "Expression": "春",
+    "Furigana": "はる",
+    "Meaning": "봄"
+  },
+  {
+    "Frequency": "717",
+    "Expression": "依頼",
+    "Furigana": "いらい",
+    "Meaning": "의뢰 · 부탁"
+  },
+  {
+    "Frequency": "718",
+    "Expression": "術",
+    "Furigana": "じゅつ",
+    "Meaning": "술 · 기술 · 방법"
+  },
+  {
+    "Frequency": "719",
+    "Expression": "足音",
+    "Furigana": "あしおと",
+    "Meaning": "발소리 · 발자국 소리"
+  },
+  {
+    "Frequency": "720",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "721",
+    "Expression": "内",
+    "Furigana": "うち",
+    "Meaning": "안 · 내부 · 속"
+  },
+  {
+    "Frequency": "722",
+    "Expression": "一枚",
+    "Furigana": "いちまい",
+    "Meaning": "한 장 · 한 개(평평한 물건을 세는 단위)"
+  },
+  {
+    "Frequency": "723",
+    "Expression": "第二",
+    "Furigana": "だいに",
+    "Meaning": "제2 · 두번째"
+  },
+  {
+    "Frequency": "724",
+    "Expression": "思い出",
+    "Furigana": "おもいで",
+    "Meaning": "추억 · 기억"
+  },
+  {
+    "Frequency": "725",
+    "Expression": "歌",
+    "Furigana": "うた",
+    "Meaning": "노래 · 시가"
+  },
+  {
+    "Frequency": "726",
+    "Expression": "庭",
+    "Furigana": "にわ",
+    "Meaning": "정원 · 마당"
+  },
+  {
+    "Frequency": "727",
+    "Expression": "ただいま",
+    "Furigana": "",
+    "Meaning": "지금 · 방금 · 다녀왔습니다"
+  },
+  {
+    "Frequency": "728",
+    "Expression": "毒",
+    "Furigana": "どく",
+    "Meaning": "독 · 독약"
+  },
+  {
+    "Frequency": "729",
+    "Expression": "大学",
+    "Furigana": "だいがく",
+    "Meaning": "대학 · 대학교"
+  },
+  {
+    "Frequency": "730",
+    "Expression": "底",
+    "Furigana": "そこ",
+    "Meaning": "바닥 · 밑바닥"
+  },
+  {
+    "Frequency": "731",
+    "Expression": "少々",
+    "Furigana": "しょうしょう",
+    "Meaning": "조금 · 약간"
+  },
+  {
+    "Frequency": "732",
+    "Expression": "微妙",
+    "Furigana": "びみょう",
+    "Meaning": "미묘 · 애매모호"
+  },
+  {
+    "Frequency": "733",
+    "Expression": "担当",
+    "Furigana": "たんとう",
+    "Meaning": "담당 · 맡음"
+  },
+  {
+    "Frequency": "734",
+    "Expression": "お店",
+    "Furigana": "みせ",
+    "Meaning": "가게 · 점포"
+  },
+  {
+    "Frequency": "735",
+    "Expression": "怪我",
+    "Furigana": "けが",
+    "Meaning": "부상 · 상처"
+  },
+  {
+    "Frequency": "736",
+    "Expression": "直後",
+    "Furigana": "ちょくご",
+    "Meaning": "직후 · 바로 뒤"
+  },
+  {
+    "Frequency": "737",
+    "Expression": "調査",
+    "Furigana": "ちょうさ",
+    "Meaning": "조사 · 연구"
+  },
+  {
+    "Frequency": "738",
+    "Expression": "今年",
+    "Furigana": "ことし",
+    "Meaning": "올해 · 금년"
+  },
+  {
+    "Frequency": "739",
+    "Expression": "応援",
+    "Furigana": "おうえん",
+    "Meaning": "응원 · 지원"
+  },
+  {
+    "Frequency": "740",
+    "Expression": "使用",
+    "Furigana": "しよう",
+    "Meaning": "사용 · 쓰다"
+  },
+  {
+    "Frequency": "741",
+    "Expression": "玄関",
+    "Furigana": "げんかん",
+    "Meaning": "현관 · 현관문"
+  },
+  {
+    "Frequency": "742",
+    "Expression": "予感",
+    "Furigana": "よかん",
+    "Meaning": "예감 · 예측"
+  },
+  {
+    "Frequency": "743",
+    "Expression": "心の中",
+    "Furigana": "こころ",
+    "Meaning": "마음속 · 속마음"
+  },
+  {
+    "Frequency": "744",
+    "Expression": "片手",
+    "Furigana": "かたて",
+    "Meaning": "한 손"
+  },
+  {
+    "Frequency": "745",
+    "Expression": "速度",
+    "Furigana": "そくど",
+    "Meaning": "속도"
+  },
+  {
+    "Frequency": "746",
+    "Expression": "刺激",
+    "Furigana": "しげき",
+    "Meaning": "자극 · 격려"
+  },
+  {
+    "Frequency": "747",
+    "Expression": "男子",
+    "Furigana": "だんし",
+    "Meaning": "남자 · 사내아이"
+  },
+  {
+    "Frequency": "748",
+    "Expression": "物語",
+    "Furigana": "ものがたり",
+    "Meaning": "이야기 · 소설 · 설화"
+  },
+  {
+    "Frequency": "749",
+    "Expression": "印象",
+    "Furigana": "いんしょう",
+    "Meaning": "인상 · 느낌"
+  },
+  {
+    "Frequency": "750",
+    "Expression": "願い",
+    "Furigana": "ねがい",
+    "Meaning": "소원 · 바람"
+  },
+  {
+    "Frequency": "751",
+    "Expression": "感",
+    "Furigana": "かん",
+    "Meaning": "감각 · 느낌"
+  },
+  {
+    "Frequency": "752",
+    "Expression": "夫",
+    "Furigana": "おっと",
+    "Meaning": "남편"
+  },
+  {
+    "Frequency": "753",
+    "Expression": "意志",
+    "Furigana": "いし",
+    "Meaning": "의지 · 의사"
+  },
+  {
+    "Frequency": "754",
+    "Expression": "魚",
+    "Furigana": "さかな",
+    "Meaning": "물고기 · 생선"
+  },
+  {
+    "Frequency": "755",
+    "Expression": "勝利",
+    "Furigana": "しょうり",
+    "Meaning": "승리"
+  },
+  {
+    "Frequency": "756",
+    "Expression": "意思",
+    "Furigana": "いし",
+    "Meaning": "의사 · 의지"
+  },
+  {
+    "Frequency": "757",
+    "Expression": "もっとも",
+    "Furigana": "",
+    "Meaning": "가장 · 최고로 · 무엇보다도"
+  },
+  {
+    "Frequency": "758",
+    "Expression": "太陽",
+    "Furigana": "たいよう",
+    "Meaning": "태양 · 해"
+  },
+  {
+    "Frequency": "759",
+    "Expression": "大体",
+    "Furigana": "だいたい",
+    "Meaning": "대체 · 대략"
+  },
+  {
+    "Frequency": "760",
+    "Expression": "才能",
+    "Furigana": "さいのう",
+    "Meaning": "재능 · 재주"
+  },
+  {
+    "Frequency": "761",
+    "Expression": "選択",
+    "Furigana": "せんたく",
+    "Meaning": "선택"
+  },
+  {
+    "Frequency": "762",
+    "Expression": "東京",
+    "Furigana": "とうきょう",
+    "Meaning": "도쿄"
+  },
+  {
+    "Frequency": "763",
+    "Expression": "真似",
+    "Furigana": "まね",
+    "Meaning": "흉내 · 모방"
+  },
+  {
+    "Frequency": "764",
+    "Expression": "左手",
+    "Furigana": "ひだりて",
+    "Meaning": "왼손"
+  },
+  {
+    "Frequency": "765",
+    "Expression": "パン",
+    "Furigana": "",
+    "Meaning": "빵"
+  },
+  {
+    "Frequency": "766",
+    "Expression": "入り口",
+    "Furigana": "いりぐち",
+    "Meaning": "입구 · 출입구"
+  },
+  {
+    "Frequency": "767",
+    "Expression": "部下",
+    "Furigana": "ぶか",
+    "Meaning": "부하 · 직원"
+  },
+  {
+    "Frequency": "768",
+    "Expression": "鬼",
+    "Furigana": "おに",
+    "Meaning": "귀신 · 도깨비"
+  },
+  {
+    "Frequency": "769",
+    "Expression": "組",
+    "Furigana": "くみ",
+    "Meaning": "조 · 짝 · 모둠"
+  },
+  {
+    "Frequency": "770",
+    "Expression": "鏡",
+    "Furigana": "かがみ",
+    "Meaning": "거울"
+  },
+  {
+    "Frequency": "771",
+    "Expression": "笑い",
+    "Furigana": "わらい",
+    "Meaning": "웃음 · 웃는 것"
+  },
+  {
+    "Frequency": "772",
+    "Expression": "香り",
+    "Furigana": "かおり",
+    "Meaning": "향기 · 냄새"
+  },
+  {
+    "Frequency": "773",
+    "Expression": "この前",
+    "Furigana": "このまえ",
+    "Meaning": "전에 · 요전에 · 얼마 전"
+  },
+  {
+    "Frequency": "774",
+    "Expression": "優秀",
+    "Furigana": "ゆうしゅう",
+    "Meaning": "우수 · 뛰어남"
+  },
+  {
+    "Frequency": "775",
+    "Expression": "機",
+    "Furigana": "き",
+    "Meaning": "기계 · 기회"
+  },
+  {
+    "Frequency": "776",
+    "Expression": "会",
+    "Furigana": "かい",
+    "Meaning": "모임 · 회의"
+  },
+  {
+    "Frequency": "777",
+    "Expression": "たっぷり",
+    "Furigana": "",
+    "Meaning": "듬뿍 · 가득 · 충분히"
+  },
+  {
+    "Frequency": "778",
+    "Expression": "いいこと",
+    "Furigana": "",
+    "Meaning": "좋은 일"
+  },
+  {
+    "Frequency": "779",
+    "Expression": "証明",
+    "Furigana": "しょうめい",
+    "Meaning": "증명 · 증서"
+  },
+  {
+    "Frequency": "780",
+    "Expression": "支配",
+    "Furigana": "しはい",
+    "Meaning": "지배 · 통치"
+  },
+  {
+    "Frequency": "781",
+    "Expression": "様々",
+    "Furigana": "さまざま",
+    "Meaning": "여러가지 · 가지가지"
+  },
+  {
+    "Frequency": "782",
+    "Expression": "感心",
+    "Furigana": "かんしん",
+    "Meaning": "감탄 · 감동"
+  },
+  {
+    "Frequency": "783",
+    "Expression": "姿勢",
+    "Furigana": "しせい",
+    "Meaning": "자세 · 태도"
+  },
+  {
+    "Frequency": "784",
+    "Expression": "先日",
+    "Furigana": "せんじつ",
+    "Meaning": "며칠 전 · 얼마 전"
+  },
+  {
+    "Frequency": "785",
+    "Expression": "土地",
+    "Furigana": "とち",
+    "Meaning": "토지 · 땅"
+  },
+  {
+    "Frequency": "786",
+    "Expression": "神様",
+    "Furigana": "かみさま",
+    "Meaning": "신 · 신님"
+  },
+  {
+    "Frequency": "787",
+    "Expression": "地下",
+    "Furigana": "ちか",
+    "Meaning": "지하"
+  },
+  {
+    "Frequency": "788",
+    "Expression": "承知",
+    "Furigana": "しょうち",
+    "Meaning": "승낙 · 알았음 · 이해"
+  },
+  {
+    "Frequency": "789",
+    "Expression": "年齢",
+    "Furigana": "ねんれい",
+    "Meaning": "연령 · 나이"
+  },
+  {
+    "Frequency": "790",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "791",
+    "Expression": "事故",
+    "Furigana": "じこ",
+    "Meaning": "사고 · 사건"
+  },
+  {
+    "Frequency": "792",
+    "Expression": "訓練",
+    "Furigana": "くんれん",
+    "Meaning": "훈련 · 연습"
+  },
+  {
+    "Frequency": "793",
+    "Expression": "学生",
+    "Furigana": "がくせい",
+    "Meaning": "학생"
+  },
+  {
+    "Frequency": "794",
+    "Expression": "用事",
+    "Furigana": "ようじ",
+    "Meaning": "용무 · 용건 · 할 일"
+  },
+  {
+    "Frequency": "795",
+    "Expression": "一年",
+    "Furigana": "いちねん",
+    "Meaning": "일년 · 한 해"
+  },
+  {
+    "Frequency": "796",
+    "Expression": "組織",
+    "Furigana": "そしき",
+    "Meaning": "조직 · 단체"
+  },
+  {
+    "Frequency": "797",
+    "Expression": "地上",
+    "Furigana": "ちじょう",
+    "Meaning": "지상 · 땅 위"
+  },
+  {
+    "Frequency": "798",
+    "Expression": "帰り",
+    "Furigana": "かえり",
+    "Meaning": "귀가 · 돌아감"
+  },
+  {
+    "Frequency": "799",
+    "Expression": "把握",
+    "Furigana": "はあく",
+    "Meaning": "파악 · 장악"
+  },
+  {
+    "Frequency": "800",
+    "Expression": "笑い声",
+    "Furigana": "わらいごえ",
+    "Meaning": "웃음소리 · 웃는 소리"
+  },
+  {
+    "Frequency": "801",
+    "Expression": "冬",
+    "Furigana": "ふゆ",
+    "Meaning": "겨울"
+  },
+  {
+    "Frequency": "802",
+    "Expression": "勇気",
+    "Furigana": "ゆうき",
+    "Meaning": "용기 · 용감"
+  },
+  {
+    "Frequency": "803",
+    "Expression": "表現",
+    "Furigana": "ひょうげん",
+    "Meaning": "표현"
+  },
+  {
+    "Frequency": "804",
+    "Expression": "テレビ",
+    "Furigana": "",
+    "Meaning": "텔레비전"
+  },
+  {
+    "Frequency": "805",
+    "Expression": "記録",
+    "Furigana": "きろく",
+    "Meaning": "기록 · 기재"
+  },
+  {
+    "Frequency": "806",
+    "Expression": "宣言",
+    "Furigana": "せんげん",
+    "Meaning": "선언 · 선포"
+  },
+  {
+    "Frequency": "807",
+    "Expression": "体力",
+    "Furigana": "たいりょく",
+    "Meaning": "체력 · 기력"
+  },
+  {
+    "Frequency": "808",
+    "Expression": "絶望",
+    "Furigana": "ぜつぼう",
+    "Meaning": "절망"
+  },
+  {
+    "Frequency": "809",
+    "Expression": "まっすぐ",
+    "Furigana": "まっすぐ",
+    "Meaning": "곧장 · 똑바로"
+  },
+  {
+    "Frequency": "810",
+    "Expression": "ご飯",
+    "Furigana": "ごはん",
+    "Meaning": "밥 · 식사"
+  },
+  {
+    "Frequency": "811",
+    "Expression": "秒",
+    "Furigana": "びょう",
+    "Meaning": "초 · 초간"
+  },
+  {
+    "Frequency": "812",
+    "Expression": "強引",
+    "Furigana": "ごういん",
+    "Meaning": "강압적 · 강제적"
+  },
+  {
+    "Frequency": "813",
+    "Expression": "平和",
+    "Furigana": "へいわ",
+    "Meaning": "평화"
+  },
+  {
+    "Frequency": "814",
+    "Expression": "金",
+    "Furigana": "かね",
+    "Meaning": "돈 · 금전 · 금"
+  },
+  {
+    "Frequency": "815",
+    "Expression": "数日",
+    "Furigana": "すうじつ",
+    "Meaning": "며칠 · 수일"
+  },
+  {
+    "Frequency": "816",
+    "Expression": "骨",
+    "Furigana": "ほね",
+    "Meaning": "뼈 · 골격"
+  },
+  {
+    "Frequency": "817",
+    "Expression": "決意",
+    "Furigana": "けつい",
+    "Meaning": "결심 · 결의"
+  },
+  {
+    "Frequency": "818",
+    "Expression": "言い訳",
+    "Furigana": "いいわけ",
+    "Meaning": "변명 · 구실"
+  },
+  {
+    "Frequency": "819",
+    "Expression": "観察",
+    "Furigana": "かんさつ",
+    "Meaning": "관찰"
+  },
+  {
+    "Frequency": "820",
+    "Expression": "袋",
+    "Furigana": "ふくろ",
+    "Meaning": "가방 · 봉투"
+  },
+  {
+    "Frequency": "821",
+    "Expression": "違和感",
+    "Furigana": "いわかん",
+    "Meaning": "위화감 · 어색함 · 불편함"
+  },
+  {
+    "Frequency": "822",
+    "Expression": "その通り",
+    "Furigana": "",
+    "Meaning": "그대로 · 그와 같이"
+  },
+  {
+    "Frequency": "823",
+    "Expression": "氷",
+    "Furigana": "こおり",
+    "Meaning": "얼음"
+  },
+  {
+    "Frequency": "824",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "825",
+    "Expression": "端",
+    "Furigana": "はし",
+    "Meaning": "끝 · 가장자리"
+  },
+  {
+    "Frequency": "826",
+    "Expression": "助け",
+    "Furigana": "たすけ",
+    "Meaning": "도움 · 구조"
+  },
+  {
+    "Frequency": "827",
+    "Expression": "布",
+    "Furigana": "ぬの",
+    "Meaning": "천 · 헝겊"
+  },
+  {
+    "Frequency": "828",
+    "Expression": "丁寧",
+    "Furigana": "ていねい",
+    "Meaning": "정중 · 공손"
+  },
+  {
+    "Frequency": "829",
+    "Expression": "土",
+    "Furigana": "つち",
+    "Meaning": "흙 · 땅"
+  },
+  {
+    "Frequency": "830",
+    "Expression": "下手",
+    "Furigana": "へた",
+    "Meaning": "서투름 · 서투른"
+  },
+  {
+    "Frequency": "831",
+    "Expression": "永遠",
+    "Furigana": "えいえん",
+    "Meaning": "영원 · 영원히"
+  },
+  {
+    "Frequency": "832",
+    "Expression": "評価",
+    "Furigana": "ひょうか",
+    "Meaning": "평가"
+  },
+  {
+    "Frequency": "833",
+    "Expression": "景色",
+    "Furigana": "けしき",
+    "Meaning": "경치 · 풍경"
+  },
+  {
+    "Frequency": "834",
+    "Expression": "美人",
+    "Furigana": "びじん",
+    "Meaning": "미인 · 예쁜 사람"
+  },
+  {
+    "Frequency": "835",
+    "Expression": "地獄",
+    "Furigana": "じごく",
+    "Meaning": "지옥"
+  },
+  {
+    "Frequency": "836",
+    "Expression": "この先",
+    "Furigana": "さき",
+    "Meaning": "앞으로 · 이후"
+  },
+  {
+    "Frequency": "837",
+    "Expression": "翌日",
+    "Furigana": "よくじつ",
+    "Meaning": "다음날 · 이튿날"
+  },
+  {
+    "Frequency": "838",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "839",
+    "Expression": "動物",
+    "Furigana": "どうぶつ",
+    "Meaning": "동물"
+  },
+  {
+    "Frequency": "840",
+    "Expression": "隙間",
+    "Furigana": "すきま",
+    "Meaning": "틈 · 틈새 · 빈틈"
+  },
+  {
+    "Frequency": "841",
+    "Expression": "油断",
+    "Furigana": "ゆだん",
+    "Meaning": "방심 · 소홀"
+  },
+  {
+    "Frequency": "842",
+    "Expression": "線",
+    "Furigana": "せん",
+    "Meaning": "선 · 줄 · 라인"
+  },
+  {
+    "Frequency": "843",
+    "Expression": "続き",
+    "Furigana": "つづき",
+    "Meaning": "계속 · 이어짐"
+  },
+  {
+    "Frequency": "844",
+    "Expression": "氏",
+    "Furigana": "し",
+    "Meaning": "씨 · 성씨"
+  },
+  {
+    "Frequency": "845",
+    "Expression": "靴",
+    "Furigana": "くつ",
+    "Meaning": "신발 · 구두"
+  },
+  {
+    "Frequency": "846",
+    "Expression": "特殊",
+    "Furigana": "とくしゅ",
+    "Meaning": "특수 · 특별"
+  },
+  {
+    "Frequency": "847",
+    "Expression": "主人",
+    "Furigana": "しゅじん",
+    "Meaning": "주인 · 남편"
+  },
+  {
+    "Frequency": "848",
+    "Expression": "目標",
+    "Furigana": "もくひょう",
+    "Meaning": "목표 · 표적"
+  },
+  {
+    "Frequency": "849",
+    "Expression": "やり方",
+    "Furigana": "やりかた",
+    "Meaning": "방법 · 하는 방법"
+  },
+  {
+    "Frequency": "850",
+    "Expression": "教師",
+    "Furigana": "きょうし",
+    "Meaning": "교사 · 선생님"
+  },
+  {
+    "Frequency": "851",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "852",
+    "Expression": "騒ぎ",
+    "Furigana": "さわぎ",
+    "Meaning": "소동 · 소란"
+  },
+  {
+    "Frequency": "853",
+    "Expression": "おかげ",
+    "Furigana": "おかげ",
+    "Meaning": "덕분 · 은혜 · 은택"
+  },
+  {
+    "Frequency": "854",
+    "Expression": "派手",
+    "Furigana": "はで",
+    "Meaning": "화려함 · 요란함"
+  },
+  {
+    "Frequency": "855",
+    "Expression": "本日",
+    "Furigana": "ほんじつ",
+    "Meaning": "오늘 · 금일"
+  },
+  {
+    "Frequency": "856",
+    "Expression": "実力",
+    "Furigana": "じつりょく",
+    "Meaning": "실력"
+  },
+  {
+    "Frequency": "857",
+    "Expression": "次第",
+    "Furigana": "しだい",
+    "Meaning": "차례 · 순서"
+  },
+  {
+    "Frequency": "858",
+    "Expression": "雲",
+    "Furigana": "くも",
+    "Meaning": "구름"
+  },
+  {
+    "Frequency": "859",
+    "Expression": "役目",
+    "Furigana": "やくめ",
+    "Meaning": "역할 · 임무"
+  },
+  {
+    "Frequency": "860",
+    "Expression": "自慢",
+    "Furigana": "じまん",
+    "Meaning": "자랑 · 뽐냄"
+  },
+  {
+    "Frequency": "861",
+    "Expression": "駅",
+    "Furigana": "えき",
+    "Meaning": "역"
+  },
+  {
+    "Frequency": "862",
+    "Expression": "要求",
+    "Furigana": "ようきゅう",
+    "Meaning": "요구 · 요청"
+  },
+  {
+    "Frequency": "863",
+    "Expression": "高校",
+    "Furigana": "こうこう",
+    "Meaning": "고등학교"
+  },
+  {
+    "Frequency": "864",
+    "Expression": "範囲",
+    "Furigana": "はんい",
+    "Meaning": "범위 · 영역"
+  },
+  {
+    "Frequency": "865",
+    "Expression": "どっか",
+    "Furigana": "",
+    "Meaning": "어딘가 · 어디엔가"
+  },
+  {
+    "Frequency": "866",
+    "Expression": "その上",
+    "Furigana": "",
+    "Meaning": "그 위 · 게다가 · 더욱이"
+  },
+  {
+    "Frequency": "867",
+    "Expression": "顔色",
+    "Furigana": "かおいろ",
+    "Meaning": "안색 · 얼굴빛"
+  },
+  {
+    "Frequency": "868",
+    "Expression": "音楽",
+    "Furigana": "おんがく",
+    "Meaning": "음악"
+  },
+  {
+    "Frequency": "869",
+    "Expression": "映画",
+    "Furigana": "えいが",
+    "Meaning": "영화"
+  },
+  {
+    "Frequency": "870",
+    "Expression": "鉄",
+    "Furigana": "てつ",
+    "Meaning": "철 · 쇠"
+  },
+  {
+    "Frequency": "871",
+    "Expression": "今朝",
+    "Furigana": "けさ",
+    "Meaning": "오늘 아침"
+  },
+  {
+    "Frequency": "872",
+    "Expression": "環境",
+    "Furigana": "かんきょう",
+    "Meaning": "환경"
+  },
+  {
+    "Frequency": "873",
+    "Expression": "主張",
+    "Furigana": "しゅちょう",
+    "Meaning": "주장 · 단언"
+  },
+  {
+    "Frequency": "874",
+    "Expression": "奇妙",
+    "Furigana": "きみょう",
+    "Meaning": "기묘 · 이상하다"
+  },
+  {
+    "Frequency": "875",
+    "Expression": "正解",
+    "Furigana": "せいかい",
+    "Meaning": "정답"
+  },
+  {
+    "Frequency": "876",
+    "Expression": "宿",
+    "Furigana": "やど",
+    "Meaning": "숙소 · 여관"
+  },
+  {
+    "Frequency": "877",
+    "Expression": "慎重",
+    "Furigana": "しんちょう",
+    "Meaning": "신중 · 조심스러움"
+  },
+  {
+    "Frequency": "878",
+    "Expression": "表",
+    "Furigana": "ひょう",
+    "Meaning": "표 · 표면 · 표시"
+  },
+  {
+    "Frequency": "879",
+    "Expression": "大勢",
+    "Furigana": "おおぜい",
+    "Meaning": "다수 · 많은 사람"
+  },
+  {
+    "Frequency": "880",
+    "Expression": "終了",
+    "Furigana": "しゅうりょう",
+    "Meaning": "종료 · 끝남"
+  },
+  {
+    "Frequency": "881",
+    "Expression": "昼",
+    "Furigana": "ひる",
+    "Meaning": "낮 · 점심"
+  },
+  {
+    "Frequency": "882",
+    "Expression": "台",
+    "Furigana": "だい",
+    "Meaning": "대 · 개수를 세는 단위 · 받침대"
+  },
+  {
+    "Frequency": "883",
+    "Expression": "出発",
+    "Furigana": "しゅっぱつ",
+    "Meaning": "출발"
+  },
+  {
+    "Frequency": "884",
+    "Expression": "機能",
+    "Furigana": "きのう",
+    "Meaning": "기능 · 작용"
+  },
+  {
+    "Frequency": "885",
+    "Expression": "南",
+    "Furigana": "みなみ",
+    "Meaning": "남 · 남쪽"
+  },
+  {
+    "Frequency": "886",
+    "Expression": "管理",
+    "Furigana": "かんり",
+    "Meaning": "관리 · 경영"
+  },
+  {
+    "Frequency": "887",
+    "Expression": "性",
+    "Furigana": "せい",
+    "Meaning": "성질 · 성격 · 성"
+  },
+  {
+    "Frequency": "888",
+    "Expression": "純粋",
+    "Furigana": "じゅんすい",
+    "Meaning": "순수 · 순진"
+  },
+  {
+    "Frequency": "889",
+    "Expression": "草",
+    "Furigana": "くさ",
+    "Meaning": "풀 · 잡초"
+  },
+  {
+    "Frequency": "890",
+    "Expression": "卒業",
+    "Furigana": "そつぎょう",
+    "Meaning": "졸업"
+  },
+  {
+    "Frequency": "891",
+    "Expression": "契約",
+    "Furigana": "けいやく",
+    "Meaning": "계약 · 약속"
+  },
+  {
+    "Frequency": "892",
+    "Expression": "作品",
+    "Furigana": "さくひん",
+    "Meaning": "작품"
+  },
+  {
+    "Frequency": "893",
+    "Expression": "夕方",
+    "Furigana": "ゆうがた",
+    "Meaning": "저녁 · 해질녘"
+  },
+  {
+    "Frequency": "894",
+    "Expression": "爪",
+    "Furigana": "つめ",
+    "Meaning": "손톱 · 발톱"
+  },
+  {
+    "Frequency": "895",
+    "Expression": "確保",
+    "Furigana": "かくほ",
+    "Meaning": "확보 · 보장"
+  },
+  {
+    "Frequency": "896",
+    "Expression": "生き物",
+    "Furigana": "いきもの",
+    "Meaning": "생물 · 생명체"
+  },
+  {
+    "Frequency": "897",
+    "Expression": "現状",
+    "Furigana": "げんじょう",
+    "Meaning": "현상 · 현재의 상태"
+  },
+  {
+    "Frequency": "898",
+    "Expression": "糸",
+    "Furigana": "いと",
+    "Meaning": "실"
+  },
+  {
+    "Frequency": "899",
+    "Expression": "時々",
+    "Furigana": "ときどき",
+    "Meaning": "때때로 · 가끔"
+  },
+  {
+    "Frequency": "900",
+    "Expression": "幸い",
+    "Furigana": "さいわい",
+    "Meaning": "행복 · 다행"
+  },
+  {
+    "Frequency": "901",
+    "Expression": "足元",
+    "Furigana": "あしもと",
+    "Meaning": "발밑 · 발아래"
+  },
+  {
+    "Frequency": "902",
+    "Expression": "緑",
+    "Furigana": "みどり",
+    "Meaning": "녹색 · 초록색"
+  },
+  {
+    "Frequency": "903",
+    "Expression": "次々",
+    "Furigana": "つぎつぎ",
+    "Meaning": "차례차례 · 잇따라"
+  },
+  {
+    "Frequency": "904",
+    "Expression": "感動",
+    "Furigana": "かんどう",
+    "Meaning": "감동 · 감격"
+  },
+  {
+    "Frequency": "905",
+    "Expression": "社会",
+    "Furigana": "しゃかい",
+    "Meaning": "사회"
+  },
+  {
+    "Frequency": "906",
+    "Expression": "字",
+    "Furigana": "じ",
+    "Meaning": "글자 · 한자"
+  },
+  {
+    "Frequency": "907",
+    "Expression": "トイレ",
+    "Furigana": "",
+    "Meaning": "화장실 · 변소"
+  },
+  {
+    "Frequency": "908",
+    "Expression": "買い物",
+    "Furigana": "かいもの",
+    "Meaning": "쇼핑 · 물건사기"
+  },
+  {
+    "Frequency": "909",
+    "Expression": "不幸",
+    "Furigana": "ふこう",
+    "Meaning": "불행 · 불운"
+  },
+  {
+    "Frequency": "910",
+    "Expression": "虫",
+    "Furigana": "むし",
+    "Meaning": "벌레 · 곤충"
+  },
+  {
+    "Frequency": "911",
+    "Expression": "橋",
+    "Furigana": "はし",
+    "Meaning": "다리"
+  },
+  {
+    "Frequency": "912",
+    "Expression": "具合",
+    "Furigana": "ぐあい",
+    "Meaning": "상태 · 구합 · 형편"
+  },
+  {
+    "Frequency": "913",
+    "Expression": "教育",
+    "Furigana": "きょういく",
+    "Meaning": "교육"
+  },
+  {
+    "Frequency": "914",
+    "Expression": "舞台",
+    "Furigana": "ぶたい",
+    "Meaning": "무대 · 연극무대"
+  },
+  {
+    "Frequency": "915",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "916",
+    "Expression": "機械",
+    "Furigana": "きかい",
+    "Meaning": "기계 · 기구"
+  },
+  {
+    "Frequency": "917",
+    "Expression": "田",
+    "Furigana": "た",
+    "Meaning": "논 · 밭"
+  },
+  {
+    "Frequency": "918",
+    "Expression": "最低",
+    "Furigana": "さいてい",
+    "Meaning": "최저 · 최하 · 최악"
+  },
+  {
+    "Frequency": "919",
+    "Expression": "施設",
+    "Furigana": "しせつ",
+    "Meaning": "시설 · 설비"
+  },
+  {
+    "Frequency": "920",
+    "Expression": "発表",
+    "Furigana": "はっぴょう",
+    "Meaning": "발표 · 표명"
+  },
+  {
+    "Frequency": "921",
+    "Expression": "恋愛",
+    "Furigana": "れんあい",
+    "Meaning": "연애 · 사랑"
+  },
+  {
+    "Frequency": "922",
+    "Expression": "三つ",
+    "Furigana": "みっつ",
+    "Meaning": "셋 · 세개"
+  },
+  {
+    "Frequency": "923",
+    "Expression": "品",
+    "Furigana": "しな",
+    "Meaning": "품격 · 품질 · 물품"
+  },
+  {
+    "Frequency": "924",
+    "Expression": "法",
+    "Furigana": "ほう",
+    "Meaning": "법 · 법률 · 방법"
+  },
+  {
+    "Frequency": "925",
+    "Expression": "集団",
+    "Furigana": "しゅうだん",
+    "Meaning": "집단 · 무리"
+  },
+  {
+    "Frequency": "926",
+    "Expression": "脳",
+    "Furigana": "のう",
+    "Meaning": "뇌 · 두뇌"
+  },
+  {
+    "Frequency": "927",
+    "Expression": "夫婦",
+    "Furigana": "ふうふ",
+    "Meaning": "부부"
+  },
+  {
+    "Frequency": "928",
+    "Expression": "指摘",
+    "Furigana": "してき",
+    "Meaning": "지적 · 가리켜서 지적함"
+  },
+  {
+    "Frequency": "929",
+    "Expression": "隅",
+    "Furigana": "すみ",
+    "Meaning": "구석 · 모퉁이"
+  },
+  {
+    "Frequency": "930",
+    "Expression": "監視",
+    "Furigana": "かんし",
+    "Meaning": "감시 · 감독"
+  },
+  {
+    "Frequency": "931",
+    "Expression": "喜び",
+    "Furigana": "よろこび",
+    "Meaning": "기쁨 · 환희"
+  },
+  {
+    "Frequency": "932",
+    "Expression": "派",
+    "Furigana": "は",
+    "Meaning": "파 · 무리 · 당파"
+  },
+  {
+    "Frequency": "933",
+    "Expression": "男女",
+    "Furigana": "だんじょ",
+    "Meaning": "남녀"
+  },
+  {
+    "Frequency": "934",
+    "Expression": "仲",
+    "Furigana": "なか",
+    "Meaning": "사이 · 관계"
+  },
+  {
+    "Frequency": "935",
+    "Expression": "最中",
+    "Furigana": "さいちゅう",
+    "Meaning": "한창 · 도중 · 진행중"
+  },
+  {
+    "Frequency": "936",
+    "Expression": "交渉",
+    "Furigana": "こうしょう",
+    "Meaning": "협상 · 교섭"
+  },
+  {
+    "Frequency": "937",
+    "Expression": "内部",
+    "Furigana": "ないぶ",
+    "Meaning": "내부 · 안"
+  },
+  {
+    "Frequency": "938",
+    "Expression": "実家",
+    "Furigana": "じっか",
+    "Meaning": "본가 · 친정"
+  },
+  {
+    "Frequency": "939",
+    "Expression": "波",
+    "Furigana": "なみ",
+    "Meaning": "파도 · 물결"
+  },
+  {
+    "Frequency": "940",
+    "Expression": "説得",
+    "Furigana": "せっとく",
+    "Meaning": "설득 · 납득시킴"
+  },
+  {
+    "Frequency": "941",
+    "Expression": "会場",
+    "Furigana": "かいじょう",
+    "Meaning": "회장 · 모임 장소"
+  },
+  {
+    "Frequency": "942",
+    "Expression": "結論",
+    "Furigana": "けつろん",
+    "Meaning": "결론"
+  },
+  {
+    "Frequency": "943",
+    "Expression": "被害",
+    "Furigana": "ひがい",
+    "Meaning": "피해 · 손해"
+  },
+  {
+    "Frequency": "944",
+    "Expression": "書類",
+    "Furigana": "しょるい",
+    "Meaning": "서류"
+  },
+  {
+    "Frequency": "945",
+    "Expression": "半ば",
+    "Furigana": "なかば",
+    "Meaning": "중간 · 절반"
+  },
+  {
+    "Frequency": "946",
+    "Expression": "何もかも",
+    "Furigana": "なにもかも",
+    "Meaning": "모든 것 · 무엇이든"
+  },
+  {
+    "Frequency": "947",
+    "Expression": "望み",
+    "Furigana": "のぞみ",
+    "Meaning": "희망 · 소원 · 바람"
+  },
+  {
+    "Frequency": "948",
+    "Expression": "個人",
+    "Furigana": "こじん",
+    "Meaning": "개인"
+  },
+  {
+    "Frequency": "949",
+    "Expression": "代表",
+    "Furigana": "だいひょう",
+    "Meaning": "대표"
+  },
+  {
+    "Frequency": "950",
+    "Expression": "治療",
+    "Furigana": "ちりょう",
+    "Meaning": "치료"
+  },
+  {
+    "Frequency": "951",
+    "Expression": "直前",
+    "Furigana": "ちょくぜん",
+    "Meaning": "직전 · 바로 앞"
+  },
+  {
+    "Frequency": "952",
+    "Expression": "操作",
+    "Furigana": "そうさ",
+    "Meaning": "조작 · 운전"
+  },
+  {
+    "Frequency": "953",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "954",
+    "Expression": "やる気",
+    "Furigana": "やるき",
+    "Meaning": "의욕 · 하고자 하는 마음"
+  },
+  {
+    "Frequency": "955",
+    "Expression": "感想",
+    "Furigana": "かんそう",
+    "Meaning": "감상 · 소감"
+  },
+  {
+    "Frequency": "956",
+    "Expression": "礼",
+    "Furigana": "れい",
+    "Meaning": "예의 · 예절"
+  },
+  {
+    "Frequency": "957",
+    "Expression": "容赦",
+    "Furigana": "ようしゃ",
+    "Meaning": "용서 · 용납"
+  },
+  {
+    "Frequency": "958",
+    "Expression": "お客さん",
+    "Furigana": "きゃく",
+    "Meaning": "손님 · 고객"
+  },
+  {
+    "Frequency": "959",
+    "Expression": "映像",
+    "Furigana": "えいぞう",
+    "Meaning": "영상 · 화상"
+  },
+  {
+    "Frequency": "960",
+    "Expression": "会議",
+    "Furigana": "かいぎ",
+    "Meaning": "회의"
+  },
+  {
+    "Frequency": "961",
+    "Expression": "夢中",
+    "Furigana": "むちゅう",
+    "Meaning": "열중 · 몰두"
+  },
+  {
+    "Frequency": "962",
+    "Expression": "去年",
+    "Furigana": "きょねん",
+    "Meaning": "작년 · 지난해"
+  },
+  {
+    "Frequency": "963",
+    "Expression": "反省",
+    "Furigana": "はんせい",
+    "Meaning": "반성 · 성찰"
+  },
+  {
+    "Frequency": "964",
+    "Expression": "資料",
+    "Furigana": "しりょう",
+    "Meaning": "자료 · 자료물 · 참고자료"
+  },
+  {
+    "Frequency": "965",
+    "Expression": "正面",
+    "Furigana": "しょうめん",
+    "Meaning": "정면 · 앞면"
+  },
+  {
+    "Frequency": "966",
+    "Expression": "この間",
+    "Furigana": "あいだ",
+    "Meaning": "사이 · 동안 · 얼마전"
+  },
+  {
+    "Frequency": "967",
+    "Expression": "厄介",
+    "Furigana": "やっかい",
+    "Meaning": "귀찮음 · 성가심 · 골치거리"
+  },
+  {
+    "Frequency": "968",
+    "Expression": "時計",
+    "Furigana": "とけい",
+    "Meaning": "시계"
+  },
+  {
+    "Frequency": "969",
+    "Expression": "煙",
+    "Furigana": "けむり",
+    "Meaning": "연기 · 담배"
+  },
+  {
+    "Frequency": "970",
+    "Expression": "歯",
+    "Furigana": "は",
+    "Meaning": "이 · 치아"
+  },
+  {
+    "Frequency": "971",
+    "Expression": "休み",
+    "Furigana": "やすみ",
+    "Meaning": "휴식 · 쉼"
+  },
+  {
+    "Frequency": "972",
+    "Expression": "おいで",
+    "Furigana": "おいで",
+    "Meaning": "오다 · 오시다"
+  },
+  {
+    "Frequency": "973",
+    "Expression": "休憩",
+    "Furigana": "きゅうけい",
+    "Meaning": "휴식 · 쉬는 시간"
+  },
+  {
+    "Frequency": "974",
+    "Expression": "段階",
+    "Furigana": "だんかい",
+    "Meaning": "단계"
+  },
+  {
+    "Frequency": "975",
+    "Expression": "登場",
+    "Furigana": "とうじょう",
+    "Meaning": "등장 · 출현"
+  },
+  {
+    "Frequency": "976",
+    "Expression": "周辺",
+    "Furigana": "しゅうへん",
+    "Meaning": "주변 · 근처"
+  },
+  {
+    "Frequency": "977",
+    "Expression": "人数",
+    "Furigana": "にんずう",
+    "Meaning": "인원수 · 인수"
+  },
+  {
+    "Frequency": "978",
+    "Expression": "設定",
+    "Furigana": "せってい",
+    "Meaning": "설정 · 설치 · 세팅"
+  },
+  {
+    "Frequency": "979",
+    "Expression": "一回",
+    "Furigana": "いっかい",
+    "Meaning": "한 번 · 한차례"
+  },
+  {
+    "Frequency": "980",
+    "Expression": "侵入",
+    "Furigana": "しんにゅう",
+    "Meaning": "침입 · 침략"
+  },
+  {
+    "Frequency": "981",
+    "Expression": "世間",
+    "Furigana": "せけん",
+    "Meaning": "세상 · 세간"
+  },
+  {
+    "Frequency": "982",
+    "Expression": "居場所",
+    "Furigana": "いばしょ",
+    "Meaning": "있을 곳 · 거처 · 소재지"
+  },
+  {
+    "Frequency": "983",
+    "Expression": "仕方",
+    "Furigana": "しかた",
+    "Meaning": "방법 · 수단 · 어쩔 수 없음"
+  },
+  {
+    "Frequency": "984",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "985",
+    "Expression": "都合",
+    "Furigana": "つごう",
+    "Meaning": "형편 · 사정 · 일의 상태"
+  },
+  {
+    "Frequency": "986",
+    "Expression": "だんだん",
+    "Furigana": "",
+    "Meaning": "점점 · 차차"
+  },
+  {
+    "Frequency": "987",
+    "Expression": "処理",
+    "Furigana": "しょり",
+    "Meaning": "처리 · 처분"
+  },
+  {
+    "Frequency": "988",
+    "Expression": "声",
+    "Furigana": "こえ",
+    "Meaning": "목소리 · 소리"
+  },
+  {
+    "Frequency": "989",
+    "Expression": "内側",
+    "Furigana": "うちがわ",
+    "Meaning": "안쪽 · 내측"
+  },
+  {
+    "Frequency": "990",
+    "Expression": "もう一人",
+    "Furigana": "",
+    "Meaning": "한 사람 더 · 또 한 사람"
+  },
+  {
+    "Frequency": "991",
+    "Expression": "無意識",
+    "Furigana": "むいしき",
+    "Meaning": "무의식"
+  },
+  {
+    "Frequency": "992",
+    "Expression": "年間",
+    "Furigana": "ねんかん",
+    "Meaning": "연간 · 일년간"
+  },
+  {
+    "Frequency": "993",
+    "Expression": "奇跡",
+    "Furigana": "きせき",
+    "Meaning": "기적 · 이변"
+  },
+  {
+    "Frequency": "994",
+    "Expression": "医者",
+    "Furigana": "いしゃ",
+    "Meaning": "의사 · 의료인"
+  },
+  {
+    "Frequency": "995",
+    "Expression": "強力",
+    "Furigana": "きょうりょく",
+    "Meaning": "강력 · 강대"
+  },
+  {
+    "Frequency": "996",
+    "Expression": "一時",
+    "Furigana": "いちじ",
+    "Meaning": "일시 · 잠시"
+  },
+  {
+    "Frequency": "997",
+    "Expression": "一週間",
+    "Furigana": "いっしゅうかん",
+    "Meaning": "일주일 · 한 주"
+  },
+  {
+    "Frequency": "998",
+    "Expression": "お話し",
+    "Furigana": "はなし",
+    "Meaning": "이야기 · 말씀 · 대화"
+  },
+  {
+    "Frequency": "999",
+    "Expression": "接触",
+    "Furigana": "せっしょく",
+    "Meaning": "접촉 · 접근"
+  },
+  {
+    "Frequency": "1000",
+    "Expression": "屋根",
+    "Furigana": "やね",
+    "Meaning": "지붕"
+  }
+]
