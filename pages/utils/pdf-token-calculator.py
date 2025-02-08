@@ -27,18 +27,22 @@ def calculate_text_size_and_cost(
 
     # 토큰 수와 비용 계산
     token_count = len(combined_text)
-    size = token_count // (
-        TOKENS_PER_KILO if token_unit == "Kilo" else TOKENS_PER_MILLION
-    )
-    usd_cost = size * float(usd_cost)
-    krw_cost = usd_cost * KRW_EXCHANGE_RATE
+    size = token_count // TOKENS_PER_KILO  # 사이즈는 K단위
+
+    # Kilo 계산: 263K * 0.02
+    # Million 계산: (263K * 0.02) / 1000
+    usd_display_cost = size * float(usd_cost)
+    if token_unit == "Million":
+        usd_display_cost = (size * float(usd_cost)) / 1000
+
+    krw_display_cost = usd_display_cost * KRW_EXCHANGE_RATE
 
     # 데이터프레임 생성
     cost_data = {
         "사이즈": [f"{size}K"],
         "페이지": [f"{len(documents)}"],
-        "USD": [f"${usd_cost:.4f}"],
-        "KRW": [f"₩{krw_cost:.2f}"],
+        "USD(소수점 2자리)": [f"${usd_display_cost:.2f}"],
+        "KRW(소수점 버림)": [f"₩{krw_display_cost:.0f}"],
     }
 
     return pd.DataFrame(cost_data)
@@ -54,18 +58,18 @@ st.header("임베딩(Embedding)")
 st.caption("계산 환율: $1 → ₩1459.29")
 
 selected_token_unit = st.selectbox(
-    "계산 기준 단위를 선택해 주세요.", ("Kilo", " Million")
+    "계산 기준 단위를 선택해 주세요.", ("Kilo", "Million")
 )
 
 unit_display_text = ""
 if selected_token_unit == "Kilo":
     unit_display_text = "1,000(1K)"
-elif selected_token_unit == " Million":
+elif selected_token_unit == "Million":
     unit_display_text = "1,000,000(1M)"
 
 usd_cost = st.text_input(
     f"{unit_display_text} 토큰당 계산될 미국 달러(USD)를 입력해 주세요.",
-    value="0.00002",
+    value="0",
     help=f"모델의 가격이 {unit_display_text} 토큰당 $0.00002인 경우, 0.00002를 입력하세요.",
 )
 
