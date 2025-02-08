@@ -21,13 +21,12 @@ def calculate_text_size_and_cost(
     combined_text = "".join(doc.page_content for doc in documents)
 
     # 비용 계산 상수
-    TOKENS_PER_KILO = 1000  # 1K
-    TOKENS_PER_MILLION = 1000000  # 1M
-    KRW_EXCHANGE_RATE = 1459
+    tokens_per_kilo = 1000  # 1K
+    krw_exchange_rate = 1459
 
     # 토큰 수와 비용 계산
     token_count = len(combined_text)
-    size = token_count // TOKENS_PER_KILO  # 사이즈는 K단위
+    size = token_count // tokens_per_kilo  # 사이즈는 K단위
 
     # Kilo 계산: 263K * 0.02
     # Million 계산: (263K * 0.02) / 1000
@@ -35,7 +34,7 @@ def calculate_text_size_and_cost(
     if token_unit == "Million":
         usd_display_cost = (size * float(usd_cost)) / 1000
 
-    krw_display_cost = usd_display_cost * KRW_EXCHANGE_RATE
+    krw_display_cost = usd_display_cost * krw_exchange_rate
 
     # 데이터프레임 생성
     cost_data = {
