@@ -1,5 +1,16 @@
 import streamlit as st
 
+st.markdown(
+    """
+            <style>
+            @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+            * {
+                font-family: 'Pretendard' !important
+            }
+            </style>
+            """,
+    unsafe_allow_html=True,
+)
 
 pages = {
     "Tutorial": [
@@ -12,13 +23,9 @@ pages = {
         ),
         st.Page("./pages/tutorial/rag_llm_pdf_loader.py", title="RAG LLM - PDF Loader"),
     ],
-    "Document Loader": [
-        st.Page(
-            "./pages/document_loader/directory_loader.py", title="Directory Loader"
-        ),
-    ],
-    "Utils": [
+    "유틸리티": [
         st.Page("./pages/utils/langchain.py", title="LangChain"),
+        st.Page("./pages/utils/pdf-token-calculator.py", title="모델 비용 모의 계산기"),
         st.Page("./pages/utils/web_base_loader.py", title="JPDB Web Crawling"),
         st.Page("./pages/utils/web_base_loader2.py", title="Naver Dict Web Crawling"),
     ],
