@@ -46,8 +46,6 @@ if start_button:
         ):
             st.write(event.values())
 
-        st.divider()
-
         st.subheader("Graph 이벤트 값 출력")
         for event in graph.stream(
             {"messages": [{"role": "human", "content": "대한민국의 수도는?"}]}
@@ -68,6 +66,3 @@ if start_button:
         ):
             for value in event.values():
                 st.chat_message("assistant").write(value["messages"].content)
-
-    with st.expander("노드 1개와 메시지 2개인 구조"):
-        st.write("미완성")

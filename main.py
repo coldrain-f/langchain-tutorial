@@ -28,6 +28,10 @@ pages = {
         st.Page(
             "./pages/langgraph/basic_llm_langgraph.py", title="LangGraph 기본 구조 확인"
         ),
+        st.Page(
+            "./pages/langgraph/basic_llm_langgraph_chatbot.py",
+            title="LangGraph 기본 챗봇",
+        ),
     ],
     "RAG": [
         st.Page("./pages/tutorial/rag_llm_pdf_loader.py", title="RAG LLM - PDF Loader"),

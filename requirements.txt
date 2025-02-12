@@ -2,6 +2,7 @@ streamlit
 faiss-cpu
 openai
 pymupdf
+langgraph
 langchain-openai
 langchain-community
 langchain-core
