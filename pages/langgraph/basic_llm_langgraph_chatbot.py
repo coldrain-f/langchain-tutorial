@@ -75,3 +75,11 @@ display_messages()
 if user_message:
     add_message("human", user_message)
     st.chat_message("human").write(user_message)
+
+    for event in graph.stream(
+        {"messages": [{"role": "human", "content": user_message}]}
+    ):
+        for value in event.values():
+            content = value["messages"][-1].content
+            st.chat_message("assistant").write(content)
+            add_message("assistant", content)
