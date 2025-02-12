@@ -24,6 +24,11 @@ pages = {
             "./pages/tutorial/basic_llm_multi_turn.py", title="Basic LLM - Multi-Turn"
         ),
     ],
+    "LangGraph": [
+        st.Page(
+            "./pages/langgraph/basic_llm_langgraph.py", title="LangGraph 기본 구조 확인"
+        ),
+    ],
     "RAG": [
         st.Page("./pages/tutorial/rag_llm_pdf_loader.py", title="RAG LLM - PDF Loader"),
     ],
