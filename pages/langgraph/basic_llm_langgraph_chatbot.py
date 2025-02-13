@@ -7,7 +7,6 @@ from langgraph.graph import StateGraph, START, END
 from langgraph.graph.message import add_messages
 from langchain_openai import ChatOpenAI
 from langchain_core.messages.chat import ChatMessage
-from langchain.schema.output_parser import StrOutputParser
 
 from dotenv import load_dotenv
 
@@ -17,7 +16,10 @@ if "page_states" not in st.session_state:
     st.session_state["page_states"] = {}
 
 if "basic_llm_langgraph_chatbot" not in st.session_state["page_states"]:
-    st.session_state["page_states"]["basic_llm_langgraph_chatbot"] = {"messages": []}
+    st.session_state["page_states"]["basic_llm_langgraph_chatbot"] = {
+        "messages": [],
+        "graph": None,
+    }
 
 
 def get_session_state() -> Dict:
@@ -47,13 +49,21 @@ def call_llm(state: State):
     return {"messages": [llm.invoke(messages)]}
 
 
-graph_builder = StateGraph(State)
-graph_builder.add_node("call_llm", call_llm)
+def build_state_graph():
+    graph_builder = StateGraph(State)
 
-graph_builder.add_edge(START, "call_llm")
-graph_builder.add_edge("call_llm", END)
+    graph_builder.add_node("call_llm", call_llm)
 
-graph = graph_builder.compile()
+    graph_builder.add_edge(START, "call_llm")
+    graph_builder.add_edge("call_llm", END)
+
+    graph = graph_builder.compile()
+    return graph
+
+
+graph = get_session_state()["graph"]
+if graph is None:
+    graph = build_state_graph()
 
 with st.sidebar:
     st.title("LLM Lab")
@@ -62,6 +72,11 @@ with st.sidebar:
     st.image(graph.get_graph().draw_mermaid_png())
 
 st.title("AI Assistant")
+st.markdown(
+    """Graph 상태에 add_messages 리듀서를 사용 중인데 메시지가 누적되지 않는 문제가 있음...
+    
+개념을 더 익히고 왜 그런지 문제 파악 필요."""
+)
 st.divider()
 
 if reset_button:
