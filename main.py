@@ -23,6 +23,7 @@ pages = {
         st.Page(
             "./pages/tutorial/basic_llm_multi_turn.py", title="Basic LLM - Multi-Turn"
         ),
+        st.Page("./pages/tutorial/tavily_llm.py", title="Advanced LLM - Tavily"),
     ],
     "LangGraph": [
         st.Page(
