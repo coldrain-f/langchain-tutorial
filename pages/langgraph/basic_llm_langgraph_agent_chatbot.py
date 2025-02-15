@@ -8,6 +8,7 @@ from langgraph.graph import StateGraph, START, END
 from langgraph.graph.message import add_messages
 from langgraph.prebuilt import ToolNode, tools_condition
 
+
 from langchain_community.tools.tavily_search import TavilySearchResults
 from langchain_openai import ChatOpenAI
 from langchain_core.runnables import RunnableConfig
@@ -44,7 +45,7 @@ def chatbot(state: State):
 
 
 # LangGraph Tools 노드 정의
-tools = ToolNode(tools=[tavily_search_tool])
+tools = ToolNode(tools=llm_tools)
 
 # LangGraph 노드 추가
 graph_builder = StateGraph(State)
@@ -66,7 +67,9 @@ graph_builder.add_conditional_edges(
 graph = graph_builder.compile()
 
 # LangGraph 설정
-config = RunnableConfig(recursion_limit=10)
+config = RunnableConfig(
+    recursion_limit=10,
+)
 
 with st.sidebar:
     st.title("LLM Lab")
@@ -90,7 +93,10 @@ if user_message:
         st.chat_message("human").write(user_message)
         messages.append(ChatMessage(role="human", content=user_message))
 
-        events = graph.stream({"messages": [user_message]})
+        events = graph.stream(
+            {"messages": [user_message]},
+            config=config,
+        )
 
         for event in events:
             for value in event.values():
